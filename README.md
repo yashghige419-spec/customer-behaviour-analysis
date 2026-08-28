@@ -74,11 +74,6 @@ Created an interactive Power BI dashboard to visualize:
 
 The analysis provides insights into customer purchasing behaviour, product preferences, subscription patterns and customer ratings, helping identify trends and potential areas for business improvement.
 
-## 👨‍💻 Author
-
-**Yash Suresh Ghige**
-
-Aspiring Data Analyst | SQL | Power BI | Excel | Python & Pandas
 
 ### Connect with me
 
