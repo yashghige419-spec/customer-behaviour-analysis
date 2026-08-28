@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,Item Purchased,CategoryPurchase,Amount (INR),Location,Size,Color,SeasonReview,Rating,Review Rating,Subscription Status,Shipping Type,Discount Applied,Previous Purchases,Payment Method,Frequency of Purchases
+CUST0001,58,Male,Blouse,Outerwear,4262,Hyderabad,L,White,Winter,Very Good,3.3,Yes,Free Shipping,Yes,14,Bank Transfer,Annually
+CUST0002,19,Other,Sandals,Accessories,3861,Ahmedabad,11,Green,Winter,Good,4.1,No,Express,Yes,13,PayPal,Weekly
+CUST0003,23,Female,Sweater,Outerwear,14135,Kolkata,11,Green,Winter,Poor,3.6,No,Free Shipping,No,40,Bank Transfer,Monthly
+CUST0004,54,Male,Shorts,Clothing,1000,Hyderabad,XXL,White,Spring,Excellent,3.1,No,Express,Yes,23,PayPal,Fortnightly
+CUST0005,60,Female,Shorts,Clothing,10230,Bangalore,10,Red,Spring,Poor,3.1,Yes,Express,Yes,14,Credit Card,Monthly
+CUST0006,43,Female,Sweater,Footwear,9542,Kolkata,XL,Purple,Fall,Poor,2.4,Yes,Standard,No,47,Bank Transfer,Quarterly
+CUST0007,55,Female,Shirt,Footwear,2516,Jaipur,9,White,Winter,Excellent,2.5,Yes,Next Day Air,Yes,24,Cash on Delivery,Annually
+CUST0008,47,Other,Sneakers,Clothing,11395,Delhi,10,Green,Summer,Excellent,2.9,Yes,Next Day Air,Yes,46,UPI,Monthly
+CUST0009,50,Male,Dress,Clothing,14512,Chennai,10,Grey,Spring,Good,3.1,Yes,Store Pickup,Yes,38,PayPal,Quarterly
+CUST0010,19,Male,Shirt,Outerwear,4173,Mumbai,XL,Grey,Winter,Excellent,4.2,Yes,Store Pickup,Yes,8,UPI,Quarterly
+CUST0011,53,Male,Sneakers,Accessories,3720,Jaipur,XL,Green,Fall,Average,3.3,No,Free Shipping,Yes,14,Credit Card,Monthly
+CUST0012,19,Other,Dress,Footwear,9891,Hyderabad,S,White,Winter,Good,2.2,Yes,Express,Yes,32,Debit Card,Monthly
+CUST0013,60,Female,Sandals,Footwear,12101,Lucknow,11,Purple,Spring,Poor,4.4,Yes,Free Shipping,Yes,42,Cash on Delivery,Monthly
+CUST0014,45,Female,T-shirt,Clothing,11282,Delhi,S,Pink,Summer,Excellent,2.7,Yes,Store Pickup,No,8,Cash on Delivery,Fortnightly
+CUST0015,35,Female,Sandals,Clothing,7510,Jaipur,M,Black,Winter,Excellent,4.8,Yes,Standard,No,31,Cash on Delivery,Fortnightly
+CUST0016,43,Male,Jeans,Accessories,285,Pune,XXL,Purple,Summer,Poor,4.1,No,Standard,Yes,18,Debit Card,Weekly
+CUST0017,55,Other,Dress,Clothing,12504,Kolkata,S,Black,Fall,Very Good,4.8,Yes,Free Shipping,Yes,11,Credit Card,Annually
+CUST0018,22,Other,Sandals,Accessories,2214,Lucknow,XL,Grey,Winter,Very Good,2.2,No,Express,Yes,42,UPI,Monthly
+CUST0019,33,Female,Jacket,Footwear,11254,Chennai,9,Yellow,Winter,Excellent,3.4,Yes,Free Shipping,Yes,32,PayPal,Fortnightly
+CUST0020,40,Male,Sandals,Outerwear,4919,Bangalore,9,Brown,Summer,Very Good,5,Yes,Store Pickup,No,42,Credit Card,Fortnightly
+CUST0021,34,Male,Sweater,Footwear,4712,Chennai,11,Red,Summer,Good,4.1,No,Store Pickup,No,16,Credit Card,Weekly
+CUST0022,58,Female,Sneakers,Clothing,308,Kolkata,L,Green,Spring,Poor,3.7,No,Store Pickup,Yes,7,Credit Card,Fortnightly
+CUST0023,52,Male,Shirt,Footwear,7291,Bangalore,S,Green,Summer,Excellent,4.7,Yes,Standard,Yes,22,Bank Transfer,Quarterly
+CUST0024,57,Other,Jeans,Footwear,14415,Bangalore,L,Pink,Winter,Good,4.2,No,Next Day Air,Yes,17,Debit Card,Weekly
+CUST0025,42,Male,T-shirt,Footwear,3519,Ahmedabad,7,Green,Spring,Good,2.1,Yes,Next Day Air,No,17,Credit Card,Monthly
+CUST0026,40,Other,Dress,Accessories,11383,Jaipur,7,Black,Winter,Average,2.5,No,Free Shipping,Yes,38,Cash on Delivery,Monthly
+CUST0027,64,Female,Jacket,Clothing,6561,Lucknow,XL,Green,Winter,Poor,2,Yes,Express,No,4,UPI,Monthly
+CUST0028,57,Female,Skirt,Clothing,12042,Chennai,10,Green,Fall,Average,3.2,No,Store Pickup,Yes,12,Cash on Delivery,Quarterly
+CUST0029,61,Other,Jeans,Outerwear,6903,Jaipur,S,Green,Summer,Good,3.3,No,Next Day Air,No,28,UPI,Fortnightly
+CUST0030,50,Female,Hoodie,Footwear,11044,Delhi,XXL,Brown,Summer,Excellent,4.5,Yes,Express,Yes,12,Debit Card,Weekly
+CUST0031,20,Male,T-shirt,Clothing,7711,Pune,11,Red,Fall,Poor,3.2,Yes,Free Shipping,Yes,49,Cash on Delivery,Fortnightly
+CUST0032,29,Other,Dress,Accessories,1072,Jaipur,XL,White,Fall,Good,4.4,No,Next Day Air,No,35,Cash on Delivery,Fortnightly
+CUST0033,65,Female,T-shirt,Outerwear,12567,Hyderabad,XXL,Brown,Fall,Good,2.8,Yes,Express,Yes,17,PayPal,Monthly
+CUST0034,52,Male,Jeans,Footwear,4038,Pune,L,Red,Winter,Poor,3.2,No,Next Day Air,Yes,13,Cash on Delivery,Quarterly
+CUST0035,67,Other,Shorts,Clothing,14286,Lucknow,8,Purple,Winter,Average,2.9,No,Next Day Air,Yes,31,Debit Card,Monthly
+CUST0036,45,Female,Blouse,Accessories,5757,Pune,L,Purple,Spring,Very Good,3.6,No,Store Pickup,Yes,5,UPI,Quarterly
+CUST0037,26,Female,Jeans,Clothing,4512,Pune,7,Red,Fall,Average,3,No,Express,No,16,Credit Card,Quarterly
+CUST0038,19,Other,Dress,Clothing,5983,Hyderabad,M,Black,Winter,Good,2.6,Yes,Store Pickup,Yes,15,Debit Card,Quarterly
+CUST0039,60,Male,Coat,Footwear,7869,Chennai,7,Blue,Winter,Good,4.9,Yes,Store Pickup,Yes,19,Bank Transfer,Quarterly
+CUST0040,43,Other,Sandals,Clothing,9950,Hyderabad,M,Green,Winter,Very Good,4.3,No,Store Pickup,No,42,PayPal,Weekly
+CUST0041,50,Other,Shirt,Clothing,14169,Pune,9,White,Fall,Average,3.9,No,Standard,No,11,UPI,Annually
+CUST0042,59,Female,Coat,Accessories,7866,Pune,11,Green,Summer,Good,4.5,Yes,Express,No,15,Cash on Delivery,Annually
+CUST0043,57,Other,Jacket,Outerwear,720,Ahmedabad,7,Blue,Fall,Good,3.1,No,Express,No,38,UPI,Monthly
+CUST0044,53,Male,Dress,Footwear,1652,Hyderabad,8,Purple,Spring,Poor,3.9,No,Next Day Air,Yes,5,PayPal,Fortnightly
+CUST0045,43,Other,Sandals,Outerwear,11128,Lucknow,7,Purple,Summer,Poor,5,No,Express,No,17,PayPal,Monthly
+CUST0046,32,Male,Shorts,Footwear,5419,Delhi,10,Blue,Spring,Good,4.2,No,Store Pickup,No,6,Debit Card,Monthly
+CUST0047,32,Female,Jeans,Outerwear,481,Jaipur,L,Green,Winter,Excellent,3.7,Yes,Next Day Air,Yes,0,Bank Transfer,Monthly
+CUST0048,48,Female,T-shirt,Outerwear,3270,Mumbai,XXL,Purple,Winter,Excellent,3.2,Yes,Store Pickup,Yes,9,Debit Card,Annually
+CUST0049,37,Male,Sandals,Clothing,9393,Pune,11,Grey,Spring,Very Good,3.1,No,Express,No,19,Bank Transfer,Annually
+CUST0050,21,Other,Shorts,Clothing,12746,Hyderabad,XL,Green,Winter,Good,2.7,Yes,Standard,Yes,26,Cash on Delivery,Annually
+CUST0051,48,Female,Blouse,Footwear,4970,Chennai,9,White,Spring,Average,4.4,Yes,Next Day Air,Yes,34,Debit Card,Fortnightly
+CUST0052,35,Male,Sweater,Clothing,2968,Chennai,11,Grey,Summer,Poor,2.4,No,Next Day Air,No,32,Bank Transfer,Quarterly
+CUST0053,46,Male,Coat,Clothing,14822,Pune,7,Grey,Summer,Excellent,2.3,Yes,Express,Yes,48,Debit Card,Quarterly
+CUST0054,51,Other,T-shirt,Outerwear,3223,Lucknow,8,Purple,Winter,Poor,3,No,Express,Yes,10,PayPal,Quarterly
+CUST0055,62,Female,Sneakers,Accessories,13579,Jaipur,S,Purple,Winter,Average,2.8,Yes,Next Day Air,Yes,42,Bank Transfer,Quarterly
+CUST0056,44,Male,Sandals,Outerwear,10451,Ahmedabad,9,Black,Spring,Average,3.6,No,Next Day Air,No,7,Credit Card,Annually
+CUST0057,69,Male,Shorts,Footwear,5341,Jaipur,S,Brown,Fall,Excellent,2.7,Yes,Next Day Air,Yes,41,Debit Card,Quarterly
+CUST0058,63,Female,Dress,Outerwear,7057,Ahmedabad,9,Red,Fall,Very Good,2.4,Yes,Store Pickup,Yes,4,PayPal,Quarterly
+CUST0059,39,Other,Sneakers,Clothing,4884,Chennai,11,Grey,Fall,Good,3.3,No,Express,No,35,Bank Transfer,Quarterly
+CUST0060,47,Female,Sandals,Footwear,9618,Pune,XL,Pink,Winter,Average,4.2,No,Next Day Air,Yes,31,Credit Card,Fortnightly
+CUST0061,50,Other,Shirt,Clothing,14572,Ahmedabad,M,Brown,Fall,Excellent,4.2,No,Standard,Yes,30,PayPal,Monthly
+CUST0062,57,Other,Jacket,Clothing,14205,Kolkata,10,Pink,Summer,Poor,4.6,Yes,Store Pickup,Yes,15,UPI,Monthly
+CUST0063,32,Other,Sweater,Accessories,1862,Delhi,9,Blue,Summer,Excellent,2.1,Yes,Express,No,23,Cash on Delivery,Fortnightly
+CUST0064,33,Other,Jacket,Footwear,3035,Bangalore,M,Grey,Fall,Very Good,4,No,Store Pickup,Yes,14,Cash on Delivery,Monthly
+CUST0065,47,Female,Skirt,Clothing,14977,Ahmedabad,XXL,Brown,Spring,Excellent,3.3,No,Store Pickup,No,40,Cash on Delivery,Monthly
+CUST0066,47,Female,Sandals,Accessories,14231,Ahmedabad,M,Red,Fall,Very Good,3.1,No,Express,Yes,42,Cash on Delivery,Monthly
+CUST0067,18,Other,Skirt,Clothing,10185,Ahmedabad,XXL,Red,Summer,Good,3.9,No,Standard,Yes,40,UPI,Weekly
+CUST0068,37,Female,Blouse,Outerwear,12248,Bangalore,M,Green,Summer,Poor,2.5,Yes,Store Pickup,No,33,Bank Transfer,Monthly
+CUST0069,28,Female,T-shirt,Outerwear,12481,Kolkata,M,Purple,Winter,Good,4.3,Yes,Next Day Air,No,5,Cash on Delivery,Weekly
+CUST0070,34,Other,Sweater,Accessories,6288,Chennai,11,Pink,Summer,Excellent,4,No,Free Shipping,No,39,Debit Card,Weekly
+CUST0071,58,Female,Shorts,Outerwear,10887,Pune,M,Blue,Winter,Excellent,2.9,No,Free Shipping,Yes,15,Bank Transfer,Fortnightly
+CUST0072,42,Female,Shirt,Accessories,9872,Bangalore,8,White,Fall,Very Good,3.2,No,Free Shipping,No,13,Cash on Delivery,Quarterly
+CUST0073,33,Female,Sweater,Outerwear,9170,Kolkata,S,Pink,Summer,Good,4.9,No,Free Shipping,Yes,41,UPI,Annually
+CUST0074,19,Male,Hoodie,Outerwear,4240,Bangalore,11,Red,Winter,Very Good,2.6,Yes,Standard,No,49,Debit Card,Annually
+CUST0075,18,Female,Jeans,Footwear,9100,Chennai,L,White,Winter,Good,2,Yes,Store Pickup,No,1,Debit Card,Monthly
+CUST0076,21,Male,Shorts,Accessories,8869,Delhi,M,Purple,Fall,Average,3.5,Yes,Next Day Air,Yes,39,Credit Card,Annually
+CUST0077,37,Female,Skirt,Clothing,1246,Ahmedabad,8,Pink,Winter,Poor,4.1,No,Free Shipping,Yes,20,Bank Transfer,Fortnightly
+CUST0078,22,Male,Sneakers,Outerwear,6490,Lucknow,10,Green,Fall,Very Good,3.8,Yes,Free Shipping,Yes,27,Cash on Delivery,Fortnightly
+CUST0079,44,Female,T-shirt,Accessories,7065,Delhi,7,Pink,Summer,Average,3.1,Yes,Next Day Air,Yes,5,Credit Card,Weekly
+CUST0080,45,Male,Shorts,Outerwear,13550,Bangalore,10,Black,Summer,Excellent,3.2,No,Free Shipping,No,38,PayPal,Monthly
+CUST0081,24,Other,Dress,Footwear,2785,Ahmedabad,XL,White,Summer,Very Good,3.1,No,Store Pickup,Yes,27,Bank Transfer,Annually
+CUST0082,57,Other,Skirt,Clothing,10227,Chennai,S,Blue,Summer,Average,4.8,No,Free Shipping,Yes,9,Bank Transfer,Quarterly
+CUST0083,22,Male,Shorts,Clothing,1753,Jaipur,XL,Pink,Fall,Poor,3,No,Express,No,49,Bank Transfer,Annually
+CUST0084,23,Male,Jeans,Footwear,12610,Lucknow,S,White,Summer,Poor,4,No,Store Pickup,No,26,PayPal,Fortnightly
+CUST0085,66,Other,Sweater,Outerwear,7293,Delhi,XXL,Grey,Fall,Very Good,4,Yes,Standard,No,38,Credit Card,Weekly
+CUST0086,31,Female,Sandals,Footwear,12770,Chennai,XXL,Yellow,Winter,Excellent,3.5,No,Standard,Yes,24,Bank Transfer,Fortnightly
+CUST0087,50,Other,Skirt,Outerwear,1430,Pune,S,Pink,Winter,Poor,4.8,No,Store Pickup,No,36,Cash on Delivery,Quarterly
+CUST0088,36,Male,Jacket,Clothing,5571,Bangalore,11,Purple,Summer,Excellent,3.3,Yes,Standard,No,37,Cash on Delivery,Annually
+CUST0089,23,Female,Sneakers,Outerwear,3880,Kolkata,L,White,Winter,Very Good,3.5,No,Express,Yes,15,Credit Card,Fortnightly
+CUST0090,34,Male,Jeans,Footwear,12705,Delhi,L,Purple,Fall,Very Good,4.3,No,Store Pickup,No,40,PayPal,Fortnightly
+CUST0091,46,Male,T-shirt,Accessories,10594,Chennai,XXL,Grey,Winter,Average,3.5,No,Next Day Air,No,2,Credit Card,Monthly
+CUST0092,36,Male,Skirt,Clothing,10326,Lucknow,10,Pink,Fall,Very Good,3.7,Yes,Next Day Air,Yes,20,Bank Transfer,Quarterly
+CUST0093,50,Male,Blouse,Accessories,1945,Kolkata,M,Brown,Spring,Excellent,2.7,No,Next Day Air,Yes,23,PayPal,Monthly
+CUST0094,42,Female,Hoodie,Outerwear,11373,Lucknow,S,Yellow,Winter,Average,2.3,No,Express,No,46,UPI,Annually
+CUST0095,27,Female,Sweater,Footwear,5981,Chennai,8,Blue,Winter,Average,3.7,No,Standard,Yes,41,UPI,Quarterly
+CUST0096,50,Female,Blouse,Outerwear,5310,Bangalore,XL,Yellow,Fall,Good,2.7,Yes,Standard,Yes,18,Credit Card,Annually
+CUST0097,67,Other,Shorts,Clothing,11095,Kolkata,11,Blue,Fall,Good,2.5,Yes,Next Day Air,Yes,26,PayPal,Fortnightly
+CUST0098,46,Other,Sneakers,Accessories,4083,Jaipur,XL,Green,Fall,Good,3.1,No,Next Day Air,No,49,Cash on Delivery,Annually
+CUST0099,51,Female,Jeans,Footwear,13377,Lucknow,L,Green,Winter,Poor,4.6,Yes,Store Pickup,Yes,18,Credit Card,Fortnightly
+CUST0100,35,Female,Dress,Footwear,13865,Pune,M,Red,Fall,Average,4.8,No,Free Shipping,No,32,PayPal,Fortnightly
+CUST0101,42,Male,Shirt,Footwear,711,Kolkata,M,Yellow,Spring,Good,2.1,No,Standard,No,28,Bank Transfer,Weekly
+CUST0102,23,Male,Sneakers,Footwear,13930,Bangalore,10,Grey,Fall,Excellent,4.3,Yes,Express,Yes,3,Debit Card,Quarterly
+CUST0103,58,Other,T-shirt,Clothing,2066,Ahmedabad,11,Brown,Winter,Very Good,3.7,Yes,Express,No,0,Bank Transfer,Monthly
+CUST0104,33,Other,Jacket,Footwear,11135,Delhi,10,Yellow,Winter,Very Good,3.6,Yes,Next Day Air,No,2,UPI,Quarterly
+CUST0105,41,Female,Shorts,Clothing,6100,Delhi,7,Red,Winter,Very Good,4.2,No,Standard,Yes,22,Bank Transfer,Monthly
+CUST0106,70,Other,Jeans,Accessories,11643,Ahmedabad,L,Blue,Winter,Poor,2.1,Yes,Free Shipping,Yes,2,PayPal,Monthly
+CUST0107,50,Female,Dress,Accessories,4400,Mumbai,XL,Green,Summer,Excellent,4.6,No,Express,Yes,23,Cash on Delivery,Quarterly
+CUST0108,65,Female,Jacket,Outerwear,3310,Ahmedabad,9,Yellow,Summer,Excellent,4.2,Yes,Next Day Air,Yes,34,PayPal,Monthly
+CUST0109,24,Male,Shirt,Outerwear,5271,Ahmedabad,11,Pink,Spring,Poor,3.1,Yes,Express,No,17,UPI,Weekly
+CUST0110,22,Other,Skirt,Accessories,6202,Jaipur,L,Black,Spring,Very Good,4,No,Free Shipping,Yes,4,Debit Card,Monthly
+CUST0111,41,Female,Coat,Clothing,10163,Bangalore,9,Yellow,Summer,Poor,4.3,Yes,Store Pickup,No,25,PayPal,Monthly
+CUST0112,33,Male,Blouse,Footwear,8426,Jaipur,8,Brown,Winter,Average,4.3,No,Standard,No,44,Cash on Delivery,Fortnightly
+CUST0113,25,Male,Sweater,Accessories,3078,Ahmedabad,M,Yellow,Summer,Excellent,3.6,No,Express,Yes,45,UPI,Fortnightly
+CUST0114,68,Female,Dress,Footwear,2238,Hyderabad,L,Red,Fall,Excellent,3.1,No,Next Day Air,Yes,39,Credit Card,Weekly
+CUST0115,37,Female,Shorts,Accessories,8862,Pune,8,Grey,Winter,Good,4.9,Yes,Next Day Air,No,43,Bank Transfer,Monthly
+CUST0116,26,Other,Skirt,Footwear,12829,Bangalore,8,Brown,Winter,Excellent,3.6,No,Standard,Yes,20,UPI,Fortnightly
+CUST0117,40,Other,Sneakers,Clothing,4355,Hyderabad,10,Green,Spring,Average,3.8,Yes,Store Pickup,Yes,37,Bank Transfer,Fortnightly
+CUST0118,28,Other,Coat,Outerwear,14054,Lucknow,S,Black,Winter,Excellent,4.8,No,Standard,No,39,UPI,Weekly
+CUST0119,49,Other,Dress,Outerwear,10767,Chennai,9,Red,Fall,Average,3.4,Yes,Standard,No,26,Cash on Delivery,Quarterly
+CUST0120,31,Female,Coat,Footwear,5371,Kolkata,7,Pink,Spring,Average,3.5,Yes,Express,Yes,29,Credit Card,Monthly
+CUST0121,46,Male,Jeans,Clothing,1079,Chennai,8,Grey,Fall,Good,4.9,Yes,Express,No,12,Debit Card,Quarterly
+CUST0122,50,Female,T-shirt,Outerwear,8398,Mumbai,M,Pink,Fall,Good,2.6,No,Free Shipping,Yes,18,Cash on Delivery,Annually
+CUST0123,59,Other,T-shirt,Outerwear,9043,Mumbai,M,Pink,Spring,Average,4.2,No,Express,Yes,25,Credit Card,Annually
+CUST0124,53,Male,Shirt,Outerwear,1454,Pune,10,Purple,Summer,Very Good,4,Yes,Standard,Yes,25,PayPal,Monthly
+CUST0125,53,Female,Hoodie,Footwear,3511,Lucknow,10,Pink,Winter,Excellent,2.1,No,Next Day Air,No,9,Bank Transfer,Annually
+CUST0126,26,Female,Coat,Outerwear,2912,Pune,11,Green,Summer,Very Good,4.5,No,Store Pickup,No,30,Credit Card,Monthly
+CUST0127,39,Other,Sweater,Accessories,9813,Chennai,S,Grey,Fall,Average,4.9,Yes,Free Shipping,No,10,Bank Transfer,Annually
+CUST0128,67,Female,Jeans,Footwear,767,Lucknow,M,Red,Winter,Poor,2.9,Yes,Next Day Air,Yes,26,Bank Transfer,Annually
+CUST0129,48,Other,Shorts,Clothing,11813,Bangalore,10,Red,Summer,Poor,3.6,No,Standard,No,34,PayPal,Annually
+CUST0130,40,Other,Hoodie,Outerwear,10245,Ahmedabad,XL,Red,Summer,Very Good,2.9,No,Express,Yes,44,UPI,Quarterly
+CUST0131,38,Female,Shirt,Outerwear,4965,Delhi,11,Brown,Fall,Poor,4.5,Yes,Express,Yes,18,UPI,Weekly
+CUST0132,40,Female,Skirt,Outerwear,12494,Ahmedabad,XL,Red,Summer,Very Good,4.1,Yes,Free Shipping,Yes,15,Credit Card,Annually
+CUST0133,32,Other,Sandals,Clothing,1891,Pune,7,Purple,Winter,Good,2,Yes,Next Day Air,No,30,UPI,Fortnightly
+CUST0134,66,Female,Shirt,Outerwear,10832,Mumbai,M,Grey,Spring,Very Good,4.2,Yes,Standard,No,11,Credit Card,Quarterly
+CUST0135,68,Female,Jeans,Outerwear,14614,Mumbai,S,Green,Winter,Average,2.9,No,Standard,No,17,Debit Card,Weekly
+CUST0136,39,Male,Shorts,Accessories,10871,Chennai,L,Black,Summer,Average,3.7,Yes,Standard,No,27,Bank Transfer,Monthly
+CUST0137,23,Female,Skirt,Clothing,3277,Bangalore,9,Yellow,Spring,Excellent,2.8,Yes,Next Day Air,No,21,PayPal,Annually
+CUST0138,64,Other,Blouse,Outerwear,10959,Kolkata,XL,Black,Winter,Poor,2.9,No,Store Pickup,No,44,Credit Card,Monthly
+CUST0139,41,Other,Sandals,Footwear,2438,Ahmedabad,L,Purple,Summer,Poor,4.1,No,Store Pickup,Yes,48,Debit Card,Annually
+CUST0140,68,Male,Dress,Accessories,8903,Kolkata,M,Grey,Winter,Excellent,4.5,Yes,Store Pickup,Yes,10,PayPal,Annually
+CUST0141,46,Male,Skirt,Footwear,11995,Lucknow,9,White,Fall,Excellent,3.4,No,Next Day Air,Yes,35,Cash on Delivery,Monthly
+CUST0142,64,Male,Jacket,Outerwear,13626,Mumbai,XL,Grey,Winter,Excellent,3.3,Yes,Store Pickup,Yes,4,Cash on Delivery,Weekly
+CUST0143,36,Female,Jeans,Footwear,12797,Pune,7,Pink,Fall,Poor,3.1,Yes,Express,Yes,11,Bank Transfer,Quarterly
+CUST0144,51,Male,Shorts,Footwear,13927,Mumbai,S,Green,Fall,Very Good,3.3,No,Standard,Yes,29,PayPal,Fortnightly
+CUST0145,35,Male,Shorts,Clothing,777,Pune,11,Black,Spring,Good,2.2,Yes,Next Day Air,Yes,15,UPI,Weekly
+CUST0146,43,Female,Sandals,Footwear,12609,Mumbai,L,Brown,Summer,Good,4.4,No,Store Pickup,No,15,PayPal,Fortnightly
+CUST0147,60,Other,Sandals,Accessories,5173,Chennai,S,Brown,Spring,Poor,3.7,Yes,Express,No,50,Bank Transfer,Monthly
+CUST0148,62,Female,Jacket,Footwear,5163,Pune,L,Brown,Fall,Good,4.5,No,Standard,No,3,Bank Transfer,Quarterly
+CUST0149,44,Other,Dress,Footwear,6613,Hyderabad,XXL,Red,Summer,Excellent,4.8,No,Free Shipping,Yes,3,PayPal,Quarterly
+CUST0150,61,Other,Coat,Clothing,14563,Delhi,XL,Grey,Spring,Poor,2.6,No,Express,Yes,13,Debit Card,Weekly
+CUST0151,65,Female,Sandals,Footwear,6748,Hyderabad,10,Yellow,Summer,Poor,3.4,No,Express,No,23,Bank Transfer,Quarterly
+CUST0152,47,Male,Hoodie,Accessories,12728,Kolkata,XL,Yellow,Summer,Poor,2.1,Yes,Standard,Yes,16,Bank Transfer,Annually
+CUST0153,55,Other,Jacket,Outerwear,2747,Hyderabad,7,Red,Fall,Very Good,4.5,No,Store Pickup,No,16,Cash on Delivery,Quarterly
+CUST0154,47,Male,Shorts,Outerwear,3023,Bangalore,10,Purple,Spring,Very Good,5,Yes,Store Pickup,Yes,4,UPI,Weekly
+CUST0155,66,Male,Jacket,Footwear,14054,Hyderabad,M,Blue,Winter,Good,3.5,No,Free Shipping,No,42,Cash on Delivery,Weekly
+CUST0156,18,Other,Dress,Accessories,444,Mumbai,10,Green,Summer,Excellent,3.5,No,Standard,Yes,6,Bank Transfer,Fortnightly
+CUST0157,33,Male,Coat,Outerwear,13606,Kolkata,XXL,Pink,Winter,Average,4.9,No,Store Pickup,Yes,44,Debit Card,Monthly
+CUST0158,61,Male,Skirt,Clothing,1781,Pune,8,Pink,Fall,Excellent,3.9,Yes,Free Shipping,No,27,UPI,Monthly
+CUST0159,54,Male,Dress,Clothing,4014,Hyderabad,11,Purple,Summer,Excellent,4.8,No,Store Pickup,Yes,11,PayPal,Weekly
+CUST0160,31,Other,Jeans,Accessories,1510,Chennai,L,Grey,Spring,Very Good,4.5,No,Store Pickup,No,24,UPI,Fortnightly
+CUST0161,68,Other,Shorts,Clothing,8454,Kolkata,S,White,Fall,Good,4.5,No,Store Pickup,No,49,PayPal,Weekly
+CUST0162,58,Female,Hoodie,Accessories,8288,Hyderabad,7,Brown,Fall,Poor,2.6,No,Free Shipping,No,15,UPI,Weekly
+CUST0163,23,Female,Jeans,Accessories,11910,Bangalore,8,Yellow,Summer,Excellent,2.3,No,Next Day Air,No,48,PayPal,Weekly
+CUST0164,26,Male,Jeans,Accessories,7603,Jaipur,10,Brown,Fall,Excellent,2.1,No,Store Pickup,Yes,38,Bank Transfer,Monthly
+CUST0165,42,Male,Sneakers,Accessories,6603,Delhi,10,Red,Spring,Poor,2.5,No,Express,No,31,Debit Card,Weekly
+CUST0166,28,Female,Sneakers,Accessories,5161,Ahmedabad,M,Yellow,Summer,Good,4.2,No,Store Pickup,Yes,29,Credit Card,Fortnightly
+CUST0167,37,Male,Jacket,Outerwear,14038,Lucknow,8,Yellow,Fall,Average,3.3,Yes,Express,No,38,UPI,Fortnightly
+CUST0168,48,Female,Jeans,Accessories,5478,Chennai,9,Grey,Spring,Average,3.1,No,Express,Yes,36,Debit Card,Annually
+CUST0169,52,Male,Skirt,Clothing,12164,Ahmedabad,XL,Purple,Summer,Excellent,4.5,No,Next Day Air,Yes,40,PayPal,Fortnightly
+CUST0170,34,Other,Jeans,Accessories,13178,Pune,M,Purple,Fall,Very Good,3.2,No,Store Pickup,Yes,50,PayPal,Annually
+CUST0171,56,Other,Sweater,Clothing,12848,Hyderabad,7,Blue,Winter,Very Good,5,No,Express,No,6,Credit Card,Weekly
+CUST0172,34,Male,Dress,Footwear,7553,Kolkata,8,Purple,Spring,Average,5,No,Free Shipping,No,26,Credit Card,Weekly
+CUST0173,64,Male,Shirt,Outerwear,5870,Ahmedabad,XL,Brown,Fall,Average,3.4,No,Next Day Air,No,4,PayPal,Weekly
+CUST0174,69,Other,Sweater,Clothing,14162,Kolkata,M,Blue,Spring,Very Good,2.5,Yes,Express,No,29,Debit Card,Quarterly
+CUST0175,58,Male,Jeans,Accessories,6731,Mumbai,11,Red,Fall,Very Good,3.3,Yes,Standard,Yes,17,UPI,Weekly
+CUST0176,54,Male,Hoodie,Footwear,6243,Kolkata,XL,Purple,Winter,Average,4,No,Store Pickup,No,38,Cash on Delivery,Annually
+CUST0177,43,Other,Sweater,Outerwear,6016,Ahmedabad,11,Blue,Summer,Very Good,3.8,Yes,Express,Yes,15,PayPal,Weekly
+CUST0178,29,Female,Shorts,Footwear,8619,Pune,8,Grey,Spring,Very Good,3.2,Yes,Next Day Air,Yes,35,Debit Card,Quarterly
+CUST0179,36,Male,Jeans,Outerwear,14045,Ahmedabad,11,Black,Summer,Excellent,3.5,Yes,Next Day Air,No,26,UPI,Quarterly
+CUST0180,44,Other,T-shirt,Accessories,2990,Delhi,11,Black,Spring,Average,2.1,Yes,Store Pickup,No,10,Cash on Delivery,Annually
+CUST0181,65,Female,Dress,Clothing,9633,Delhi,XXL,Brown,Summer,Very Good,4.5,Yes,Next Day Air,Yes,27,Credit Card,Fortnightly
+CUST0182,37,Male,T-shirt,Outerwear,5961,Delhi,9,White,Spring,Good,4.4,No,Store Pickup,No,10,Bank Transfer,Fortnightly
+CUST0183,68,Male,Sandals,Clothing,9590,Kolkata,10,Green,Spring,Average,4.9,No,Express,No,32,UPI,Weekly
+CUST0184,26,Female,Blouse,Outerwear,14455,Bangalore,L,Red,Spring,Average,4.5,No,Next Day Air,Yes,36,UPI,Monthly
+CUST0185,58,Female,Jacket,Accessories,1487,Delhi,8,Brown,Summer,Average,3.4,No,Express,Yes,49,UPI,Weekly
+CUST0186,64,Female,Skirt,Outerwear,14178,Delhi,10,Pink,Spring,Poor,4.5,No,Express,No,18,PayPal,Annually
+CUST0187,54,Male,Coat,Accessories,13165,Kolkata,S,Black,Winter,Poor,2,Yes,Next Day Air,No,0,Cash on Delivery,Fortnightly
+CUST0188,62,Male,Skirt,Outerwear,2854,Chennai,M,Yellow,Summer,Excellent,3.1,Yes,Free Shipping,No,40,PayPal,Fortnightly
+CUST0189,45,Other,Sweater,Clothing,267,Hyderabad,9,White,Spring,Very Good,2.7,No,Free Shipping,Yes,44,PayPal,Weekly
+CUST0190,45,Other,Jeans,Accessories,1410,Hyderabad,8,White,Winter,Excellent,2.9,No,Standard,No,49,Debit Card,Fortnightly
+CUST0191,22,Other,Coat,Clothing,10249,Bangalore,9,Yellow,Spring,Good,4.8,No,Standard,Yes,6,Debit Card,Weekly
+CUST0192,55,Other,Jacket,Outerwear,7285,Kolkata,L,Red,Summer,Excellent,2.7,No,Free Shipping,No,13,Bank Transfer,Annually
+CUST0193,50,Male,Shorts,Accessories,5092,Mumbai,XL,Purple,Fall,Excellent,2.7,Yes,Store Pickup,Yes,23,PayPal,Fortnightly
+CUST0194,42,Other,Jacket,Outerwear,9201,Bangalore,9,White,Winter,Very Good,2.2,No,Standard,Yes,3,Cash on Delivery,Annually
+CUST0195,36,Other,Shorts,Accessories,7189,Pune,M,Brown,Spring,Average,2.3,Yes,Store Pickup,Yes,9,Bank Transfer,Monthly
+CUST0196,43,Other,Skirt,Clothing,5331,Pune,XL,Black,Spring,Excellent,4.8,Yes,Next Day Air,Yes,19,UPI,Fortnightly
+CUST0197,25,Male,Shorts,Footwear,11743,Mumbai,L,Purple,Summer,Very Good,3.6,No,Standard,No,8,UPI,Monthly
+CUST0198,64,Male,Hoodie,Clothing,5738,Pune,XXL,Brown,Winter,Average,4.1,Yes,Next Day Air,No,32,PayPal,Weekly
+CUST0199,49,Other,Jeans,Outerwear,2827,Chennai,M,Grey,Winter,Good,4.2,Yes,Free Shipping,Yes,15,Credit Card,Quarterly
+CUST0200,41,Female,Jeans,Footwear,14299,Mumbai,10,Pink,Spring,Average,2.7,No,Express,Yes,36,PayPal,Weekly
+CUST0201,50,Other,Blouse,Footwear,3906,Jaipur,S,Pink,Winter,Poor,4.6,No,Express,Yes,35,Cash on Delivery,Weekly
+CUST0202,41,Male,Sneakers,Outerwear,12367,Lucknow,XL,Purple,Summer,Very Good,4.9,Yes,Store Pickup,Yes,9,Credit Card,Quarterly
+CUST0203,19,Male,Dress,Outerwear,10669,Mumbai,7,Black,Fall,Average,2.3,Yes,Next Day Air,No,3,Debit Card,Monthly
+CUST0204,23,Male,Sandals,Accessories,11732,Kolkata,9,White,Winter,Very Good,2.4,No,Free Shipping,Yes,27,UPI,Fortnightly
+CUST0205,33,Female,Sneakers,Outerwear,13370,Pune,7,Yellow,Fall,Average,2.7,Yes,Standard,Yes,9,Credit Card,Fortnightly
+CUST0206,46,Female,Shirt,Accessories,2228,Jaipur,7,Red,Fall,Average,3.4,Yes,Free Shipping,Yes,43,PayPal,Annually
+CUST0207,20,Male,Shirt,Footwear,1744,Hyderabad,7,Pink,Winter,Average,2.8,Yes,Free Shipping,No,28,Bank Transfer,Annually
+CUST0208,33,Male,T-shirt,Clothing,13421,Bangalore,M,Black,Winter,Good,2.4,No,Express,Yes,37,Bank Transfer,Monthly
+CUST0209,70,Male,Blouse,Clothing,3489,Ahmedabad,L,White,Summer,Excellent,2.1,No,Free Shipping,Yes,36,Cash on Delivery,Quarterly
+CUST0210,49,Male,Jacket,Accessories,3081,Kolkata,XL,Blue,Summer,Average,3.3,Yes,Free Shipping,Yes,41,PayPal,Quarterly
+CUST0211,44,Other,T-shirt,Clothing,1687,Chennai,8,Blue,Fall,Good,3.9,Yes,Store Pickup,Yes,24,UPI,Monthly
+CUST0212,48,Other,Hoodie,Accessories,5886,Lucknow,10,Yellow,Fall,Average,2.5,No,Store Pickup,Yes,1,PayPal,Weekly
+CUST0213,69,Female,Dress,Outerwear,12813,Lucknow,XL,Blue,Winter,Good,4,No,Store Pickup,Yes,48,Debit Card,Annually
+CUST0214,69,Female,Shirt,Footwear,3135,Hyderabad,11,Yellow,Summer,Very Good,2.1,No,Store Pickup,Yes,36,Debit Card,Quarterly
+CUST0215,52,Female,Jeans,Accessories,871,Delhi,S,Red,Spring,Excellent,3.6,Yes,Express,Yes,8,PayPal,Fortnightly
+CUST0216,69,Female,Blouse,Clothing,2670,Lucknow,L,White,Summer,Excellent,3.1,No,Store Pickup,Yes,21,PayPal,Monthly
+CUST0217,26,Male,Shorts,Accessories,13223,Ahmedabad,7,Blue,Summer,Good,4,Yes,Next Day Air,No,46,UPI,Monthly
+CUST0218,26,Male,Shorts,Clothing,11751,Lucknow,8,Grey,Winter,Good,3.8,Yes,Store Pickup,Yes,31,Debit Card,Monthly
+CUST0219,65,Male,Sandals,Outerwear,5484,Bangalore,M,Yellow,Fall,Excellent,2.8,Yes,Free Shipping,No,16,Credit Card,Weekly
+CUST0220,21,Female,T-shirt,Accessories,2975,Pune,9,Pink,Summer,Very Good,3.1,No,Store Pickup,Yes,10,Cash on Delivery,Weekly
+CUST0221,69,Male,Sneakers,Clothing,5471,Chennai,M,White,Summer,Good,4.7,Yes,Free Shipping,Yes,21,Bank Transfer,Annually
+CUST0222,48,Other,Blouse,Accessories,10959,Bangalore,11,Pink,Spring,Excellent,2.3,Yes,Standard,No,44,Bank Transfer,Annually
+CUST0223,34,Other,Sneakers,Outerwear,4141,Delhi,S,Pink,Fall,Good,2.2,Yes,Next Day Air,Yes,18,UPI,Annually
+CUST0224,48,Male,Sweater,Clothing,3640,Bangalore,XXL,White,Fall,Excellent,2.9,No,Next Day Air,No,42,PayPal,Weekly
+CUST0225,59,Other,Jacket,Footwear,6328,Pune,7,Blue,Fall,Excellent,2.8,No,Express,Yes,17,Bank Transfer,Weekly
+CUST0226,27,Other,Skirt,Clothing,1654,Kolkata,10,Pink,Spring,Very Good,2.2,No,Store Pickup,No,34,UPI,Quarterly
+CUST0227,54,Male,T-shirt,Outerwear,1543,Pune,S,Brown,Spring,Excellent,4.8,No,Standard,Yes,13,Debit Card,Fortnightly
+CUST0228,20,Female,Sweater,Accessories,3558,Bangalore,11,Green,Summer,Excellent,2.3,No,Store Pickup,No,17,Bank Transfer,Quarterly
+CUST0229,18,Other,Coat,Accessories,2093,Pune,L,Blue,Winter,Excellent,3.7,Yes,Express,No,26,PayPal,Quarterly
+CUST0230,59,Female,Coat,Accessories,863,Bangalore,XXL,Pink,Spring,Very Good,3.8,No,Free Shipping,No,21,UPI,Fortnightly
+CUST0231,21,Other,T-shirt,Outerwear,14946,Kolkata,S,Yellow,Summer,Average,2.8,No,Free Shipping,Yes,8,PayPal,Quarterly
+CUST0232,67,Female,Sneakers,Accessories,10161,Delhi,XL,Purple,Spring,Poor,4.2,No,Free Shipping,Yes,4,PayPal,Annually
+CUST0233,43,Male,Hoodie,Clothing,3096,Hyderabad,XL,Black,Spring,Excellent,3.4,No,Standard,No,23,Cash on Delivery,Annually
+CUST0234,43,Other,Sweater,Clothing,4213,Kolkata,9,Grey,Fall,Good,4.9,No,Store Pickup,No,22,Debit Card,Monthly
+CUST0235,65,Other,Sweater,Outerwear,699,Pune,S,Blue,Spring,Good,3.9,Yes,Express,No,32,Credit Card,Weekly
+CUST0236,48,Male,Skirt,Footwear,10099,Mumbai,XL,Green,Summer,Average,3.3,No,Express,No,16,Debit Card,Quarterly
+CUST0237,37,Other,Dress,Accessories,9826,Delhi,S,Brown,Summer,Very Good,3.9,No,Express,Yes,30,Credit Card,Monthly
+CUST0238,35,Other,Shirt,Outerwear,4528,Chennai,XL,Blue,Spring,Excellent,4.4,No,Express,Yes,46,Credit Card,Quarterly
+CUST0239,36,Female,Jacket,Accessories,6611,Mumbai,11,Grey,Spring,Average,4.2,Yes,Store Pickup,No,42,PayPal,Annually
+CUST0240,37,Male,Skirt,Footwear,5063,Delhi,9,Blue,Summer,Very Good,4.3,Yes,Express,Yes,14,PayPal,Fortnightly
+CUST0241,65,Female,Jacket,Outerwear,6339,Chennai,11,Green,Fall,Excellent,3.4,Yes,Next Day Air,Yes,32,Credit Card,Quarterly
+CUST0242,51,Female,Jacket,Clothing,14517,Bangalore,L,Red,Summer,Poor,5,No,Standard,No,45,Debit Card,Weekly
+CUST0243,49,Female,Skirt,Footwear,5384,Mumbai,S,Purple,Summer,Good,4.3,Yes,Store Pickup,Yes,31,Credit Card,Fortnightly
+CUST0244,57,Female,Skirt,Accessories,6859,Pune,9,Pink,Winter,Excellent,3.6,No,Free Shipping,No,48,Bank Transfer,Fortnightly
+CUST0245,19,Other,Blouse,Footwear,3957,Kolkata,XXL,Blue,Winter,Poor,3.5,No,Standard,Yes,2,PayPal,Monthly
+CUST0246,47,Other,Dress,Outerwear,7355,Bangalore,7,Purple,Summer,Good,2.5,No,Free Shipping,Yes,14,UPI,Fortnightly
+CUST0247,31,Other,Blouse,Footwear,2267,Kolkata,S,Pink,Summer,Very Good,3.9,Yes,Free Shipping,Yes,3,UPI,Weekly
+CUST0248,44,Female,Jacket,Clothing,9216,Chennai,9,Blue,Spring,Excellent,2.9,Yes,Store Pickup,No,39,Bank Transfer,Fortnightly
+CUST0249,44,Male,Dress,Clothing,4881,Delhi,M,Purple,Spring,Very Good,2.6,No,Store Pickup,Yes,22,UPI,Quarterly
+CUST0250,36,Male,Blouse,Accessories,3652,Ahmedabad,7,Red,Winter,Excellent,4,Yes,Store Pickup,No,9,Credit Card,Annually
+CUST0251,22,Other,Shorts,Clothing,4442,Hyderabad,9,Green,Summer,Poor,2.2,Yes,Free Shipping,No,23,UPI,Monthly
+CUST0252,45,Other,Sweater,Clothing,14196,Mumbai,S,Blue,Spring,Average,3.1,No,Store Pickup,No,46,Credit Card,Monthly
+CUST0253,70,Female,Jeans,Clothing,6816,Pune,9,Green,Fall,Poor,4.4,Yes,Free Shipping,Yes,44,UPI,Weekly
+CUST0254,28,Male,Jacket,Accessories,13394,Lucknow,9,Blue,Fall,Average,3.8,Yes,Next Day Air,No,7,Cash on Delivery,Quarterly
+CUST0255,20,Male,Sneakers,Outerwear,452,Jaipur,11,Grey,Spring,Average,3.6,Yes,Next Day Air,Yes,30,PayPal,Quarterly
+CUST0256,27,Other,Coat,Clothing,440,Bangalore,10,Purple,Fall,Good,2.2,No,Express,Yes,21,PayPal,Weekly
+CUST0257,50,Male,Dress,Accessories,6857,Hyderabad,M,Purple,Fall,Very Good,3.3,No,Next Day Air,No,7,Cash on Delivery,Weekly
+CUST0258,24,Female,Jacket,Clothing,9378,Jaipur,S,White,Summer,Very Good,3.7,No,Express,No,3,Debit Card,Quarterly
+CUST0259,39,Other,Hoodie,Accessories,11991,Kolkata,9,White,Winter,Good,2,No,Express,No,44,Credit Card,Weekly
+CUST0260,28,Female,Jeans,Accessories,2002,Chennai,11,Red,Spring,Excellent,4.8,No,Standard,No,50,Debit Card,Monthly
+CUST0261,24,Female,Blouse,Clothing,12900,Ahmedabad,9,Grey,Spring,Poor,2,Yes,Store Pickup,No,37,Cash on Delivery,Annually
+CUST0262,67,Male,Shorts,Footwear,12218,Bangalore,M,Pink,Summer,Very Good,4.6,No,Store Pickup,Yes,17,Cash on Delivery,Monthly
+CUST0263,36,Female,Hoodie,Footwear,2513,Pune,11,Brown,Summer,Very Good,4.6,Yes,Standard,Yes,39,UPI,Monthly
+CUST0264,61,Female,Skirt,Footwear,11889,Bangalore,10,Brown,Summer,Excellent,4.3,No,Store Pickup,No,43,UPI,Annually
+CUST0265,36,Female,Hoodie,Clothing,8814,Delhi,S,Pink,Spring,Excellent,4,Yes,Express,Yes,18,UPI,Monthly
+CUST0266,27,Male,Shorts,Outerwear,3592,Jaipur,S,Yellow,Fall,Excellent,3.8,Yes,Store Pickup,No,15,Bank Transfer,Monthly
+CUST0267,62,Other,Blouse,Accessories,6599,Pune,7,Brown,Winter,Excellent,4.2,Yes,Store Pickup,No,14,UPI,Monthly
+CUST0268,66,Other,Dress,Footwear,12966,Hyderabad,XXL,Purple,Spring,Excellent,2.6,Yes,Store Pickup,Yes,24,Credit Card,Quarterly
+CUST0269,35,Other,Sneakers,Footwear,2886,Lucknow,XXL,Black,Summer,Poor,4.1,Yes,Free Shipping,Yes,20,Bank Transfer,Weekly
+CUST0270,67,Other,Coat,Outerwear,8287,Lucknow,10,Yellow,Winter,Average,3.6,Yes,Store Pickup,Yes,50,Bank Transfer,Fortnightly
+CUST0271,44,Other,Dress,Accessories,1756,Kolkata,XL,Red,Summer,Average,3.1,Yes,Store Pickup,No,35,UPI,Weekly
+CUST0272,25,Other,Shirt,Accessories,4187,Lucknow,11,Red,Winter,Average,3.1,Yes,Next Day Air,No,34,UPI,Monthly
+CUST0273,19,Other,Hoodie,Outerwear,8676,Jaipur,9,Purple,Winter,Average,4.7,Yes,Express,Yes,6,Debit Card,Annually
+CUST0274,52,Male,Skirt,Clothing,3703,Hyderabad,8,White,Spring,Very Good,4.5,No,Free Shipping,Yes,1,Cash on Delivery,Monthly
+CUST0275,20,Male,Sweater,Clothing,3166,Chennai,10,White,Spring,Average,3.2,No,Next Day Air,No,20,Credit Card,Quarterly
+CUST0276,61,Male,Dress,Clothing,10759,Lucknow,M,Grey,Winter,Excellent,3.1,Yes,Express,No,38,Credit Card,Monthly
+CUST0277,66,Female,Jacket,Accessories,13719,Mumbai,9,Blue,Spring,Good,4.2,No,Standard,No,43,UPI,Monthly
+CUST0278,18,Other,Dress,Footwear,2269,Mumbai,S,Grey,Fall,Very Good,3.6,Yes,Express,Yes,47,UPI,Monthly
+CUST0279,31,Female,Skirt,Footwear,2887,Bangalore,XL,Grey,Summer,Good,2.3,Yes,Store Pickup,No,41,Bank Transfer,Weekly
+CUST0280,36,Other,Sweater,Outerwear,1858,Hyderabad,11,Purple,Summer,Average,2.4,Yes,Free Shipping,No,39,Credit Card,Fortnightly
+CUST0281,38,Female,T-shirt,Outerwear,10348,Chennai,11,Blue,Summer,Average,4.9,Yes,Free Shipping,No,15,Debit Card,Quarterly
+CUST0282,35,Female,Jeans,Outerwear,14633,Ahmedabad,9,Purple,Summer,Average,3.5,Yes,Standard,Yes,17,Debit Card,Annually
+CUST0283,30,Female,Shorts,Clothing,12168,Delhi,S,Brown,Winter,Very Good,3.7,Yes,Free Shipping,No,34,Bank Transfer,Quarterly
+CUST0284,59,Male,Shirt,Accessories,3908,Lucknow,XXL,Blue,Fall,Very Good,3.5,No,Express,Yes,42,Debit Card,Annually
+CUST0285,61,Male,Hoodie,Footwear,7560,Bangalore,L,Grey,Spring,Poor,4.8,Yes,Standard,No,14,Credit Card,Monthly
+CUST0286,41,Male,Blouse,Footwear,8735,Kolkata,8,Purple,Fall,Excellent,2.1,No,Free Shipping,No,47,PayPal,Annually
+CUST0287,52,Other,Jeans,Accessories,10959,Pune,7,Grey,Winter,Very Good,2.8,Yes,Store Pickup,No,22,PayPal,Quarterly
+CUST0288,68,Female,Coat,Clothing,8472,Bangalore,9,Blue,Spring,Excellent,3.5,No,Standard,Yes,11,Debit Card,Monthly
+CUST0289,56,Other,Sweater,Footwear,7043,Kolkata,M,Purple,Fall,Poor,2.6,Yes,Next Day Air,Yes,15,Credit Card,Fortnightly
+CUST0290,54,Other,Jeans,Footwear,10564,Jaipur,S,Grey,Spring,Excellent,2.5,Yes,Store Pickup,No,38,Bank Transfer,Weekly
+CUST0291,64,Other,Skirt,Outerwear,1654,Hyderabad,9,Grey,Fall,Poor,2.5,No,Store Pickup,Yes,50,Bank Transfer,Fortnightly
+CUST0292,57,Other,Dress,Outerwear,2997,Kolkata,9,Grey,Winter,Good,3.1,Yes,Free Shipping,Yes,12,Bank Transfer,Annually
+CUST0293,61,Female,Jeans,Clothing,3156,Ahmedabad,11,Grey,Winter,Very Good,3.5,Yes,Free Shipping,No,42,Debit Card,Annually
+CUST0294,52,Male,Hoodie,Accessories,8803,Pune,7,Black,Fall,Good,4.8,No,Next Day Air,No,37,UPI,Annually
+CUST0295,24,Female,Jeans,Outerwear,8067,Hyderabad,M,Green,Fall,Average,2.6,Yes,Store Pickup,Yes,33,Credit Card,Quarterly
+CUST0296,59,Male,Shorts,Outerwear,6948,Kolkata,M,Blue,Fall,Very Good,2.8,No,Store Pickup,No,39,PayPal,Quarterly
+CUST0297,66,Male,Jacket,Accessories,3178,Kolkata,10,Brown,Fall,Average,5,No,Next Day Air,Yes,42,Credit Card,Fortnightly
+CUST0298,46,Other,Jeans,Clothing,3763,Jaipur,8,Yellow,Winter,Good,3.2,Yes,Free Shipping,Yes,30,Bank Transfer,Quarterly
+CUST0299,23,Male,Sneakers,Footwear,6325,Delhi,11,Black,Fall,Poor,3.8,No,Store Pickup,Yes,49,Debit Card,Quarterly
+CUST0300,46,Male,Sandals,Outerwear,3440,Mumbai,11,Brown,Spring,Very Good,2.5,Yes,Express,Yes,41,Credit Card,Fortnightly
+CUST0301,23,Female,Hoodie,Accessories,6035,Pune,8,Grey,Spring,Very Good,2,Yes,Free Shipping,No,46,Bank Transfer,Annually
+CUST0302,40,Female,Sneakers,Footwear,10184,Hyderabad,9,Pink,Winter,Average,2.5,Yes,Store Pickup,Yes,32,PayPal,Monthly
+CUST0303,25,Other,Sneakers,Outerwear,11623,Ahmedabad,8,Grey,Fall,Good,4.3,No,Next Day Air,Yes,30,Credit Card,Monthly
+CUST0304,22,Female,Skirt,Footwear,11340,Hyderabad,7,Pink,Summer,Very Good,3.6,No,Standard,No,5,Cash on Delivery,Monthly
+CUST0305,22,Other,Jeans,Accessories,5392,Kolkata,XL,Grey,Summer,Good,4.8,Yes,Next Day Air,Yes,15,UPI,Fortnightly
+CUST0306,34,Male,Sandals,Footwear,13929,Hyderabad,11,Yellow,Spring,Excellent,2.4,Yes,Next Day Air,Yes,48,Bank Transfer,Weekly
+CUST0307,48,Female,Coat,Outerwear,8316,Lucknow,XXL,Purple,Spring,Very Good,2.8,Yes,Store Pickup,Yes,3,Bank Transfer,Quarterly
+CUST0308,48,Other,Blouse,Outerwear,6700,Bangalore,9,White,Fall,Average,4.1,Yes,Standard,No,37,Credit Card,Monthly
+CUST0309,41,Other,Sneakers,Footwear,9237,Chennai,XL,Green,Fall,Very Good,3,Yes,Next Day Air,No,13,Cash on Delivery,Monthly
+CUST0310,41,Female,Sneakers,Accessories,3197,Lucknow,L,Grey,Spring,Excellent,4.2,Yes,Store Pickup,No,24,Debit Card,Fortnightly
+CUST0311,69,Other,Jeans,Accessories,13450,Mumbai,L,Pink,Fall,Good,5,No,Next Day Air,No,16,Bank Transfer,Annually
+CUST0312,21,Female,Sweater,Footwear,1233,Hyderabad,XXL,Purple,Winter,Poor,4.2,No,Express,No,35,Bank Transfer,Monthly
+CUST0313,40,Male,Jacket,Clothing,6002,Lucknow,XL,Grey,Spring,Average,3.1,No,Next Day Air,Yes,24,Bank Transfer,Monthly
+CUST0314,47,Other,Jeans,Footwear,10745,Kolkata,8,Grey,Fall,Excellent,2.2,No,Standard,No,20,UPI,Monthly
+CUST0315,63,Female,Coat,Accessories,4694,Ahmedabad,7,Grey,Fall,Poor,2.5,Yes,Standard,Yes,42,PayPal,Weekly
+CUST0316,31,Male,Jacket,Clothing,1815,Delhi,9,Brown,Winter,Excellent,4.3,Yes,Free Shipping,No,39,Debit Card,Weekly
+CUST0317,59,Female,Sneakers,Footwear,4303,Chennai,9,Blue,Spring,Very Good,4.5,Yes,Free Shipping,No,20,Cash on Delivery,Quarterly
+CUST0318,52,Female,Dress,Accessories,2463,Jaipur,L,Grey,Fall,Very Good,3.3,No,Express,No,34,Debit Card,Weekly
+CUST0319,46,Female,Shirt,Accessories,4506,Bangalore,XXL,Black,Winter,Very Good,4.4,Yes,Express,No,30,Bank Transfer,Weekly
+CUST0320,62,Female,Hoodie,Accessories,5158,Mumbai,8,Green,Spring,Excellent,3.6,Yes,Next Day Air,No,25,Debit Card,Fortnightly
+CUST0321,63,Other,Skirt,Accessories,13822,Pune,XL,Green,Winter,Poor,3.9,No,Express,No,26,Debit Card,Weekly
+CUST0322,29,Male,Sneakers,Clothing,10684,Ahmedabad,11,Purple,Summer,Very Good,3.5,No,Free Shipping,Yes,3,Bank Transfer,Weekly
+CUST0323,29,Male,Sneakers,Outerwear,2298,Ahmedabad,S,Red,Winter,Good,2,Yes,Express,No,19,Cash on Delivery,Monthly
+CUST0324,47,Other,Hoodie,Clothing,5660,Delhi,L,Black,Summer,Poor,2.2,No,Standard,Yes,16,Cash on Delivery,Weekly
+CUST0325,25,Other,Sandals,Accessories,12885,Ahmedabad,XL,Black,Spring,Poor,4.2,Yes,Store Pickup,Yes,30,Cash on Delivery,Monthly
+CUST0326,38,Male,Skirt,Clothing,12451,Jaipur,10,White,Summer,Poor,3.9,Yes,Express,Yes,42,Debit Card,Weekly
+CUST0327,33,Other,Jacket,Outerwear,496,Bangalore,XXL,Grey,Winter,Poor,4.4,Yes,Free Shipping,No,44,Bank Transfer,Fortnightly
+CUST0328,41,Male,Sandals,Footwear,8440,Delhi,11,Yellow,Winter,Excellent,3.1,Yes,Store Pickup,Yes,8,Cash on Delivery,Fortnightly
+CUST0329,38,Other,Hoodie,Outerwear,13447,Ahmedabad,XL,Black,Fall,Average,4.2,No,Free Shipping,No,45,Cash on Delivery,Annually
+CUST0330,36,Other,Shorts,Accessories,3359,Lucknow,L,Brown,Summer,Average,4.2,No,Store Pickup,Yes,4,Bank Transfer,Fortnightly
+CUST0331,46,Female,Sneakers,Outerwear,7689,Mumbai,10,Pink,Spring,Excellent,3.9,No,Store Pickup,Yes,20,UPI,Weekly
+CUST0332,60,Other,Jacket,Footwear,8836,Ahmedabad,10,Blue,Summer,Average,3.2,No,Free Shipping,Yes,33,UPI,Weekly
+CUST0333,20,Male,Jeans,Clothing,3560,Delhi,9,Red,Winter,Excellent,3.7,No,Next Day Air,No,3,PayPal,Fortnightly
+CUST0334,56,Other,Sweater,Clothing,3669,Ahmedabad,M,Purple,Winter,Average,3.7,No,Express,Yes,39,PayPal,Annually
+CUST0335,20,Other,Sweater,Outerwear,1526,Hyderabad,10,White,Winter,Good,3.6,Yes,Standard,Yes,36,UPI,Fortnightly
+CUST0336,53,Other,Dress,Accessories,12474,Delhi,11,Yellow,Fall,Poor,4.6,Yes,Standard,No,32,PayPal,Fortnightly
+CUST0337,52,Other,T-shirt,Outerwear,5413,Jaipur,7,Yellow,Fall,Poor,4.5,No,Store Pickup,Yes,36,Bank Transfer,Fortnightly
+CUST0338,42,Other,Shorts,Outerwear,6148,Ahmedabad,9,Pink,Winter,Excellent,4.9,Yes,Store Pickup,Yes,19,Credit Card,Monthly
+CUST0339,32,Male,Shirt,Clothing,12890,Chennai,10,Brown,Spring,Excellent,2.1,No,Standard,Yes,16,PayPal,Annually
+CUST0340,33,Male,Sneakers,Outerwear,1755,Lucknow,8,Grey,Spring,Excellent,4.2,No,Standard,No,44,UPI,Annually
+CUST0341,70,Male,Coat,Outerwear,862,Lucknow,8,White,Winter,Average,3,No,Next Day Air,Yes,49,Debit Card,Annually
+CUST0342,18,Other,Hoodie,Accessories,1136,Chennai,10,Black,Summer,Very Good,3.7,No,Store Pickup,Yes,9,Credit Card,Quarterly
+CUST0343,46,Other,Coat,Clothing,3888,Pune,XXL,Pink,Spring,Good,3,No,Store Pickup,Yes,35,Cash on Delivery,Monthly
+CUST0344,23,Female,Dress,Accessories,12928,Bangalore,L,Purple,Spring,Poor,3.2,Yes,Store Pickup,Yes,15,Credit Card,Monthly
+CUST0345,67,Female,Shirt,Clothing,2093,Pune,8,Yellow,Summer,Good,3,Yes,Express,Yes,22,Bank Transfer,Quarterly
+CUST0346,57,Male,T-shirt,Clothing,13654,Hyderabad,XL,Yellow,Spring,Excellent,2.3,Yes,Standard,Yes,18,Credit Card,Monthly
+CUST0347,62,Male,Sneakers,Accessories,7969,Mumbai,7,Red,Spring,Good,3.6,No,Store Pickup,No,39,UPI,Fortnightly
+CUST0348,62,Other,Skirt,Clothing,6420,Lucknow,10,Black,Summer,Good,2.2,Yes,Store Pickup,No,3,Cash on Delivery,Weekly
+CUST0349,22,Female,Skirt,Outerwear,11112,Kolkata,M,Black,Summer,Poor,2.7,No,Store Pickup,Yes,20,Cash on Delivery,Annually
+CUST0350,52,Male,Jeans,Footwear,8452,Ahmedabad,10,Black,Winter,Good,4.8,No,Express,No,25,UPI,Fortnightly
+CUST0351,19,Female,Skirt,Outerwear,6072,Chennai,XL,Brown,Summer,Excellent,3.9,No,Free Shipping,No,14,Debit Card,Monthly
+CUST0352,43,Other,Jeans,Clothing,12208,Pune,10,Grey,Spring,Poor,2.7,Yes,Next Day Air,No,38,PayPal,Quarterly
+CUST0353,52,Male,Sandals,Footwear,9769,Jaipur,XL,Blue,Summer,Very Good,4.7,No,Standard,Yes,20,Credit Card,Annually
+CUST0354,52,Other,Sweater,Footwear,5453,Bangalore,S,Yellow,Fall,Poor,2.9,No,Standard,Yes,6,Debit Card,Fortnightly
+CUST0355,19,Other,Coat,Outerwear,10172,Lucknow,11,Red,Spring,Good,4.1,No,Free Shipping,No,8,Bank Transfer,Annually
+CUST0356,48,Other,Skirt,Outerwear,3264,Pune,9,Purple,Spring,Good,2.6,Yes,Next Day Air,Yes,17,Cash on Delivery,Fortnightly
+CUST0357,65,Other,Sandals,Footwear,1333,Bangalore,9,Grey,Fall,Average,4.6,Yes,Next Day Air,No,49,Credit Card,Annually
+CUST0358,65,Female,Shorts,Outerwear,6707,Lucknow,11,Grey,Winter,Very Good,2.3,No,Free Shipping,Yes,33,Bank Transfer,Quarterly
+CUST0359,65,Male,Dress,Accessories,8706,Mumbai,XL,Green,Fall,Poor,4.7,No,Next Day Air,Yes,27,PayPal,Annually
+CUST0360,21,Other,Dress,Footwear,7845,Ahmedabad,M,Brown,Winter,Good,4.3,Yes,Next Day Air,No,20,Cash on Delivery,Weekly
+CUST0361,29,Female,Coat,Footwear,14709,Ahmedabad,M,Green,Summer,Good,4.2,Yes,Free Shipping,Yes,45,Cash on Delivery,Monthly
+CUST0362,23,Other,Shorts,Accessories,12159,Jaipur,11,Blue,Fall,Very Good,3.1,Yes,Express,Yes,10,Debit Card,Fortnightly
+CUST0363,67,Other,Blouse,Accessories,5297,Chennai,9,Green,Spring,Excellent,4.7,Yes,Free Shipping,No,0,Cash on Delivery,Quarterly
+CUST0364,49,Other,Hoodie,Clothing,10211,Ahmedabad,XL,Red,Fall,Poor,3.2,Yes,Store Pickup,Yes,15,Bank Transfer,Monthly
+CUST0365,57,Other,Dress,Footwear,1051,Bangalore,L,Black,Summer,Excellent,2.4,Yes,Store Pickup,No,21,Credit Card,Weekly
+CUST0366,24,Female,Jeans,Footwear,11261,Chennai,11,Grey,Spring,Poor,4.2,No,Free Shipping,Yes,49,PayPal,Monthly
+CUST0367,41,Female,Sweater,Accessories,14066,Jaipur,M,Green,Fall,Good,2.4,No,Express,No,33,Debit Card,Fortnightly
+CUST0368,57,Male,Sweater,Clothing,8174,Lucknow,XXL,Pink,Summer,Average,3.6,No,Standard,No,33,UPI,Quarterly
+CUST0369,49,Male,Coat,Footwear,11859,Chennai,XL,Black,Winter,Excellent,3.4,Yes,Standard,No,26,Credit Card,Monthly
+CUST0370,40,Other,Hoodie,Footwear,435,Hyderabad,XXL,Green,Winter,Average,2.9,No,Free Shipping,Yes,43,PayPal,Monthly
+CUST0371,43,Other,Coat,Clothing,13882,Bangalore,XL,Yellow,Summer,Poor,4.7,Yes,Standard,No,9,UPI,Quarterly
+CUST0372,52,Female,T-shirt,Accessories,12416,Mumbai,10,Green,Summer,Very Good,3.6,Yes,Store Pickup,No,50,PayPal,Weekly
+CUST0373,27,Female,Blouse,Outerwear,6397,Jaipur,L,Grey,Fall,Good,3.8,No,Express,Yes,17,Cash on Delivery,Weekly
+CUST0374,49,Male,Shirt,Accessories,13839,Chennai,XL,Brown,Summer,Good,2.3,Yes,Standard,Yes,28,Bank Transfer,Weekly
+CUST0375,69,Female,Dress,Footwear,3366,Kolkata,9,Brown,Summer,Average,2.4,Yes,Store Pickup,Yes,13,UPI,Weekly
+CUST0376,47,Female,Shorts,Clothing,317,Chennai,S,Grey,Winter,Average,3.4,Yes,Free Shipping,No,1,Bank Transfer,Monthly
+CUST0377,58,Male,Shirt,Footwear,3404,Chennai,XXL,Brown,Summer,Poor,4,No,Standard,Yes,17,Credit Card,Weekly
+CUST0378,57,Other,Dress,Clothing,3634,Jaipur,7,Brown,Summer,Average,2.4,No,Store Pickup,Yes,10,Credit Card,Monthly
+CUST0379,57,Female,Dress,Accessories,1081,Bangalore,S,Purple,Winter,Excellent,3.2,Yes,Next Day Air,No,11,UPI,Annually
+CUST0380,55,Other,Shorts,Accessories,10347,Kolkata,XXL,Yellow,Spring,Very Good,2.2,No,Store Pickup,Yes,5,UPI,Quarterly
+CUST0381,24,Female,Sneakers,Accessories,7959,Hyderabad,XL,Blue,Summer,Average,3.2,No,Express,No,31,Credit Card,Weekly
+CUST0382,48,Male,Shirt,Accessories,7806,Bangalore,XXL,Yellow,Spring,Very Good,2.3,Yes,Express,Yes,50,PayPal,Annually
+CUST0383,47,Female,Coat,Accessories,4158,Lucknow,XL,Brown,Spring,Poor,3.2,No,Standard,No,50,Cash on Delivery,Annually
+CUST0384,68,Female,Dress,Footwear,3085,Delhi,11,Purple,Winter,Very Good,3.8,No,Store Pickup,Yes,28,Debit Card,Monthly
+CUST0385,43,Male,Coat,Clothing,11481,Lucknow,8,Yellow,Fall,Excellent,2.3,Yes,Store Pickup,Yes,48,Debit Card,Fortnightly
+CUST0386,46,Other,Sneakers,Accessories,10335,Lucknow,9,Red,Spring,Average,2.9,No,Next Day Air,No,5,Bank Transfer,Weekly
+CUST0387,57,Other,Jacket,Footwear,14217,Chennai,S,Yellow,Winter,Excellent,4.1,No,Free Shipping,No,1,Debit Card,Quarterly
+CUST0388,62,Other,Jacket,Outerwear,11911,Pune,8,Pink,Fall,Very Good,2.6,Yes,Next Day Air,Yes,12,Bank Transfer,Quarterly
+CUST0389,41,Female,Jeans,Outerwear,14548,Bangalore,L,Black,Winter,Excellent,2.4,No,Next Day Air,Yes,5,Debit Card,Quarterly
+CUST0390,47,Other,Coat,Accessories,10461,Bangalore,9,Brown,Fall,Very Good,4.5,No,Express,Yes,11,Cash on Delivery,Annually
+CUST0391,18,Other,T-shirt,Footwear,11917,Jaipur,XXL,Pink,Summer,Excellent,4.9,No,Express,Yes,37,Cash on Delivery,Weekly
+CUST0392,27,Other,Shorts,Outerwear,7867,Jaipur,M,Brown,Winter,Good,3.4,Yes,Store Pickup,No,39,Credit Card,Monthly
+CUST0393,52,Male,T-shirt,Accessories,8649,Ahmedabad,11,Yellow,Fall,Average,4.9,No,Express,Yes,2,UPI,Annually
+CUST0394,65,Female,Shorts,Outerwear,1256,Ahmedabad,11,Blue,Winter,Average,4.4,Yes,Express,No,5,Debit Card,Annually
+CUST0395,22,Female,Sneakers,Footwear,10339,Chennai,XXL,Green,Winter,Excellent,3.8,Yes,Next Day Air,No,11,PayPal,Fortnightly
+CUST0396,49,Male,Hoodie,Clothing,5867,Delhi,L,Grey,Spring,Poor,4.3,No,Next Day Air,Yes,42,Cash on Delivery,Fortnightly
+CUST0397,31,Other,Shorts,Outerwear,1140,Chennai,M,Black,Spring,Poor,3.2,No,Next Day Air,Yes,24,UPI,Quarterly
+CUST0398,48,Female,Jeans,Accessories,444,Chennai,9,Pink,Summer,Very Good,4,Yes,Free Shipping,No,27,Bank Transfer,Monthly
+CUST0399,39,Female,Sneakers,Clothing,4433,Lucknow,8,Purple,Spring,Very Good,4.3,No,Standard,No,35,Credit Card,Weekly
+CUST0400,22,Male,Jacket,Clothing,8855,Delhi,9,Yellow,Spring,Average,2.8,Yes,Free Shipping,Yes,3,Bank Transfer,Fortnightly
+CUST0401,56,Other,Sweater,Clothing,1665,Lucknow,L,Pink,Spring,Excellent,4.1,No,Express,No,42,Credit Card,Quarterly
+CUST0402,35,Female,Shorts,Outerwear,4466,Bangalore,M,Green,Winter,Poor,3.2,Yes,Express,No,11,Cash on Delivery,Weekly
+CUST0403,49,Male,Coat,Accessories,3173,Ahmedabad,M,Blue,Fall,Good,3.8,Yes,Next Day Air,No,6,Credit Card,Weekly
+CUST0404,22,Other,Shorts,Outerwear,12984,Ahmedabad,S,Purple,Spring,Excellent,4.8,No,Express,Yes,44,PayPal,Quarterly
+CUST0405,54,Male,Dress,Accessories,8083,Pune,8,White,Spring,Excellent,3.2,No,Free Shipping,No,21,UPI,Monthly
+CUST0406,43,Male,Skirt,Clothing,6235,Jaipur,7,White,Fall,Average,3.9,Yes,Store Pickup,Yes,24,UPI,Fortnightly
+CUST0407,37,Other,Jacket,Clothing,10582,Kolkata,9,White,Fall,Good,2.4,Yes,Free Shipping,Yes,31,Cash on Delivery,Weekly
+CUST0408,68,Other,Skirt,Outerwear,8436,Jaipur,9,Black,Winter,Average,2.2,Yes,Next Day Air,Yes,13,UPI,Annually
+CUST0409,47,Other,Dress,Footwear,12391,Lucknow,XL,White,Winter,Good,3.5,Yes,Next Day Air,Yes,15,UPI,Fortnightly
+CUST0410,18,Male,Skirt,Clothing,5285,Delhi,9,Grey,Spring,Very Good,2.2,Yes,Free Shipping,No,38,Bank Transfer,Fortnightly
+CUST0411,22,Male,Jacket,Outerwear,13545,Pune,7,White,Spring,Average,4.5,Yes,Free Shipping,Yes,21,Credit Card,Weekly
+CUST0412,35,Male,Hoodie,Accessories,3003,Kolkata,10,Blue,Fall,Good,4.8,Yes,Standard,Yes,50,UPI,Annually
+CUST0413,42,Male,Blouse,Accessories,1572,Mumbai,S,Blue,Winter,Very Good,4.7,No,Next Day Air,Yes,13,Debit Card,Monthly
+CUST0414,51,Female,Jacket,Footwear,3109,Lucknow,S,Grey,Spring,Poor,3.8,Yes,Express,No,26,Credit Card,Annually
+CUST0415,33,Male,Sweater,Clothing,10390,Kolkata,10,Brown,Spring,Poor,4.3,Yes,Express,Yes,12,Credit Card,Fortnightly
+CUST0416,61,Female,T-shirt,Footwear,2867,Mumbai,S,Yellow,Summer,Good,3.3,No,Store Pickup,No,2,Credit Card,Weekly
+CUST0417,52,Male,Jeans,Clothing,8197,Jaipur,M,White,Spring,Poor,3.8,No,Next Day Air,Yes,47,UPI,Monthly
+CUST0418,32,Male,Shirt,Footwear,1856,Hyderabad,8,Red,Fall,Good,2.2,No,Free Shipping,No,9,Debit Card,Annually
+CUST0419,47,Male,Jacket,Outerwear,2484,Ahmedabad,XL,Yellow,Summer,Good,3,Yes,Store Pickup,Yes,17,Debit Card,Weekly
+CUST0420,47,Female,Jacket,Footwear,12707,Kolkata,XL,Green,Spring,Very Good,4.7,Yes,Free Shipping,No,33,Cash on Delivery,Fortnightly
+CUST0421,55,Female,T-shirt,Outerwear,487,Pune,XL,Red,Summer,Poor,3.7,Yes,Store Pickup,Yes,26,Credit Card,Weekly
+CUST0422,48,Other,Hoodie,Clothing,7224,Jaipur,8,Purple,Winter,Poor,3.5,Yes,Store Pickup,Yes,44,UPI,Quarterly
+CUST0423,31,Male,Shirt,Outerwear,4166,Delhi,S,Purple,Summer,Good,4.1,Yes,Next Day Air,No,49,Debit Card,Quarterly
+CUST0424,29,Female,Skirt,Accessories,11782,Mumbai,M,Pink,Summer,Very Good,2.1,No,Express,Yes,50,UPI,Weekly
+CUST0425,57,Female,Shorts,Clothing,8683,Kolkata,S,White,Fall,Average,3.4,Yes,Express,No,11,UPI,Annually
+CUST0426,63,Male,Dress,Footwear,2517,Kolkata,XL,Brown,Winter,Poor,4.2,Yes,Standard,No,22,PayPal,Annually
+CUST0427,61,Female,Sneakers,Clothing,1288,Kolkata,7,Purple,Fall,Very Good,3.6,Yes,Next Day Air,No,28,Bank Transfer,Monthly
+CUST0428,69,Other,Shorts,Clothing,3335,Ahmedabad,M,White,Fall,Good,2.9,Yes,Free Shipping,Yes,17,Credit Card,Fortnightly
+CUST0429,49,Male,Sandals,Clothing,5053,Pune,10,Blue,Fall,Average,3.3,Yes,Express,Yes,4,Credit Card,Fortnightly
+CUST0430,51,Other,Shirt,Accessories,9731,Kolkata,7,Purple,Fall,Poor,2.9,Yes,Express,Yes,50,PayPal,Fortnightly
+CUST0431,48,Female,Sneakers,Clothing,2680,Kolkata,XXL,Purple,Spring,Very Good,4.8,No,Standard,Yes,45,UPI,Fortnightly
+CUST0432,28,Male,Sweater,Clothing,5437,Lucknow,L,Purple,Summer,Average,2.6,Yes,Express,No,9,PayPal,Quarterly
+CUST0433,52,Male,Dress,Outerwear,2240,Mumbai,8,Purple,Spring,Poor,4.8,Yes,Free Shipping,No,41,UPI,Monthly
+CUST0434,48,Female,Hoodie,Footwear,13350,Lucknow,9,Yellow,Winter,Poor,4.7,Yes,Store Pickup,Yes,19,Credit Card,Quarterly
+CUST0435,57,Male,T-shirt,Outerwear,1765,Kolkata,S,Grey,Spring,Very Good,3.6,No,Standard,Yes,5,Bank Transfer,Quarterly
+CUST0436,61,Other,Sweater,Accessories,3435,Ahmedabad,7,Grey,Winter,Average,3.2,No,Express,No,23,Credit Card,Monthly
+CUST0437,40,Female,Sneakers,Accessories,14574,Jaipur,M,Red,Fall,Poor,4.4,No,Standard,No,46,Cash on Delivery,Fortnightly
+CUST0438,55,Other,Sweater,Footwear,3654,Chennai,9,Brown,Summer,Excellent,4.8,No,Free Shipping,Yes,26,UPI,Monthly
+CUST0439,44,Male,Dress,Accessories,11886,Lucknow,L,Red,Spring,Poor,2.9,No,Free Shipping,No,37,PayPal,Quarterly
+CUST0440,53,Other,T-shirt,Footwear,689,Mumbai,L,Green,Summer,Poor,2.4,No,Next Day Air,Yes,31,UPI,Fortnightly
+CUST0441,19,Male,Hoodie,Outerwear,8328,Delhi,11,Yellow,Fall,Very Good,3.3,No,Next Day Air,Yes,23,Bank Transfer,Annually
+CUST0442,19,Female,Jeans,Clothing,2644,Kolkata,9,Blue,Summer,Good,2.2,No,Next Day Air,No,3,PayPal,Monthly
+CUST0443,51,Other,Sweater,Footwear,12807,Bangalore,M,Grey,Spring,Very Good,3,No,Express,No,43,UPI,Monthly
+CUST0444,24,Other,Coat,Outerwear,13739,Bangalore,S,Blue,Summer,Average,4.3,No,Express,Yes,6,Debit Card,Fortnightly
+CUST0445,50,Male,Sandals,Clothing,7087,Ahmedabad,M,White,Spring,Excellent,3.4,No,Express,Yes,28,Bank Transfer,Annually
+CUST0446,66,Female,Jeans,Outerwear,721,Delhi,XL,Blue,Spring,Good,2.9,Yes,Standard,Yes,27,UPI,Weekly
+CUST0447,22,Male,Hoodie,Accessories,12658,Pune,S,Red,Winter,Excellent,4.4,Yes,Next Day Air,Yes,16,Credit Card,Weekly
+CUST0448,37,Other,Blouse,Clothing,13068,Delhi,11,Red,Spring,Good,4,Yes,Free Shipping,Yes,47,PayPal,Annually
+CUST0449,40,Female,Jeans,Footwear,8522,Lucknow,M,White,Winter,Very Good,2.7,Yes,Express,Yes,48,Bank Transfer,Weekly
+CUST0450,64,Male,Sandals,Accessories,6254,Lucknow,L,Purple,Winter,Good,4.5,No,Next Day Air,Yes,32,Debit Card,Quarterly
+CUST0451,25,Female,Sweater,Accessories,2057,Jaipur,L,Purple,Summer,Average,3.7,Yes,Free Shipping,No,31,Credit Card,Quarterly
+CUST0452,36,Female,Coat,Outerwear,11506,Ahmedabad,XL,Brown,Fall,Average,5,No,Standard,Yes,30,UPI,Monthly
+CUST0453,29,Male,Skirt,Accessories,11261,Delhi,8,Purple,Winter,Excellent,2.4,No,Store Pickup,Yes,47,Debit Card,Weekly
+CUST0454,41,Male,Shirt,Footwear,9997,Pune,M,Red,Fall,Poor,2.8,No,Next Day Air,No,30,UPI,Annually
+CUST0455,43,Female,Dress,Outerwear,2664,Ahmedabad,M,White,Summer,Poor,3.5,Yes,Free Shipping,Yes,47,Credit Card,Weekly
+CUST0456,49,Other,Blouse,Footwear,6519,Lucknow,7,Blue,Summer,Very Good,3.9,Yes,Store Pickup,No,50,Cash on Delivery,Fortnightly
+CUST0457,36,Other,T-shirt,Accessories,8520,Chennai,10,Yellow,Winter,Excellent,5,Yes,Next Day Air,No,20,Cash on Delivery,Quarterly
+CUST0458,47,Male,Blouse,Footwear,9370,Chennai,L,Purple,Fall,Good,2.9,No,Next Day Air,Yes,36,UPI,Quarterly
+CUST0459,60,Other,Skirt,Accessories,8047,Jaipur,L,Brown,Winter,Poor,2.8,No,Store Pickup,No,49,PayPal,Monthly
+CUST0460,21,Male,Coat,Clothing,2350,Kolkata,7,Grey,Winter,Average,3.1,No,Express,No,26,PayPal,Weekly
+CUST0461,60,Male,Sandals,Footwear,10868,Chennai,11,White,Winter,Average,2.3,Yes,Free Shipping,No,2,Cash on Delivery,Quarterly
+CUST0462,54,Other,Jacket,Outerwear,584,Ahmedabad,11,Black,Summer,Poor,3.7,No,Store Pickup,Yes,31,Credit Card,Fortnightly
+CUST0463,39,Female,Dress,Outerwear,2980,Lucknow,XXL,Yellow,Fall,Good,3.5,Yes,Store Pickup,Yes,18,PayPal,Weekly
+CUST0464,37,Other,Jacket,Footwear,10482,Delhi,11,White,Summer,Average,2.2,No,Next Day Air,Yes,22,Credit Card,Monthly
+CUST0465,50,Female,Jacket,Outerwear,3528,Pune,8,Green,Fall,Very Good,2.5,Yes,Store Pickup,Yes,36,Cash on Delivery,Fortnightly
+CUST0466,60,Other,T-shirt,Outerwear,10701,Jaipur,11,Pink,Winter,Very Good,2.6,No,Standard,Yes,9,UPI,Monthly
+CUST0467,45,Female,Shirt,Clothing,10636,Hyderabad,8,Green,Summer,Good,2.8,Yes,Next Day Air,Yes,7,Debit Card,Fortnightly
+CUST0468,19,Male,Hoodie,Outerwear,7854,Ahmedabad,10,Pink,Fall,Excellent,2.6,No,Standard,Yes,16,PayPal,Annually
+CUST0469,29,Other,Blouse,Accessories,13066,Mumbai,S,White,Summer,Very Good,2.9,Yes,Next Day Air,No,42,UPI,Weekly
+CUST0470,43,Other,Jeans,Footwear,2083,Lucknow,10,White,Summer,Poor,4.7,Yes,Store Pickup,Yes,49,PayPal,Monthly
+CUST0471,55,Other,Jacket,Footwear,7178,Hyderabad,L,White,Spring,Good,4.9,No,Next Day Air,No,37,Credit Card,Quarterly
+CUST0472,52,Female,Shorts,Clothing,5435,Jaipur,8,Purple,Spring,Average,4.6,Yes,Express,No,45,PayPal,Monthly
+CUST0473,19,Other,Coat,Clothing,14036,Mumbai,XL,Green,Fall,Average,3.9,No,Free Shipping,Yes,28,Cash on Delivery,Weekly
+CUST0474,43,Female,Sneakers,Clothing,13729,Hyderabad,XXL,Red,Spring,Poor,3.9,No,Free Shipping,No,5,Cash on Delivery,Quarterly
+CUST0475,65,Female,Shirt,Accessories,14614,Delhi,L,Green,Winter,Average,3.3,No,Next Day Air,Yes,48,Credit Card,Fortnightly
+CUST0476,58,Female,Hoodie,Footwear,300,Pune,XL,Green,Summer,Very Good,2.2,Yes,Standard,Yes,38,UPI,Quarterly
+CUST0477,68,Female,T-shirt,Accessories,14561,Bangalore,XXL,Blue,Summer,Average,2.6,No,Express,Yes,25,Cash on Delivery,Annually
+CUST0478,32,Male,Blouse,Footwear,1707,Ahmedabad,XL,Green,Spring,Excellent,3.2,No,Store Pickup,No,9,Credit Card,Monthly
+CUST0479,28,Other,Sweater,Clothing,12023,Jaipur,8,Purple,Fall,Excellent,2.7,Yes,Standard,No,18,UPI,Quarterly
+CUST0480,42,Male,Jacket,Footwear,10081,Hyderabad,XXL,Red,Fall,Good,3.2,Yes,Free Shipping,No,16,Debit Card,Annually
+CUST0481,46,Male,Shirt,Accessories,1654,Mumbai,9,Blue,Summer,Poor,4.1,No,Next Day Air,No,4,Credit Card,Annually
+CUST0482,21,Male,Shirt,Footwear,7965,Kolkata,11,Grey,Winter,Excellent,2.8,No,Express,No,42,PayPal,Fortnightly
+CUST0483,53,Male,Coat,Footwear,4514,Bangalore,10,Purple,Summer,Poor,2.4,No,Store Pickup,No,9,PayPal,Weekly
+CUST0484,38,Male,Jeans,Accessories,14531,Chennai,7,Pink,Summer,Average,3.8,No,Store Pickup,No,27,Debit Card,Monthly
+CUST0485,65,Female,Hoodie,Footwear,9354,Ahmedabad,S,Red,Spring,Excellent,2.7,Yes,Next Day Air,No,10,UPI,Quarterly
+CUST0486,45,Male,T-shirt,Clothing,7483,Kolkata,10,Purple,Fall,Poor,2.3,Yes,Free Shipping,No,5,Debit Card,Monthly
+CUST0487,29,Male,Shorts,Outerwear,9478,Lucknow,XL,Grey,Winter,Very Good,4.3,Yes,Next Day Air,Yes,15,Cash on Delivery,Weekly
+CUST0488,39,Male,Sneakers,Clothing,6708,Kolkata,11,White,Summer,Good,2.1,No,Next Day Air,No,40,PayPal,Annually
+CUST0489,60,Male,Shirt,Clothing,11000,Lucknow,9,Yellow,Spring,Good,4.6,No,Express,Yes,47,Credit Card,Annually
+CUST0490,56,Female,Sweater,Accessories,4430,Bangalore,XL,Pink,Winter,Excellent,4.6,Yes,Next Day Air,No,18,UPI,Fortnightly
+CUST0491,25,Female,T-shirt,Accessories,12306,Chennai,11,Blue,Summer,Excellent,4.5,Yes,Next Day Air,No,24,Cash on Delivery,Monthly
+CUST0492,54,Other,Jacket,Clothing,12644,Pune,7,Grey,Spring,Poor,3.9,Yes,Free Shipping,No,29,UPI,Fortnightly
+CUST0493,59,Other,Shorts,Footwear,8365,Jaipur,10,White,Summer,Poor,3.3,No,Express,Yes,8,UPI,Monthly
+CUST0494,33,Other,Jacket,Outerwear,9564,Mumbai,10,White,Winter,Very Good,2.3,No,Next Day Air,Yes,29,UPI,Annually
+CUST0495,70,Female,Shirt,Outerwear,9843,Delhi,10,Black,Winter,Poor,2.5,Yes,Next Day Air,Yes,5,Cash on Delivery,Monthly
+CUST0496,38,Other,Shorts,Accessories,12658,Ahmedabad,11,Green,Summer,Good,2.6,Yes,Store Pickup,No,43,Credit Card,Quarterly
+CUST0497,52,Male,Blouse,Accessories,2161,Mumbai,L,Purple,Fall,Poor,4.6,No,Express,No,44,UPI,Quarterly
+CUST0498,69,Female,Sweater,Footwear,2463,Mumbai,XL,White,Winter,Good,4.6,Yes,Next Day Air,Yes,41,Debit Card,Quarterly
+CUST0499,58,Other,Sandals,Clothing,5180,Ahmedabad,L,Purple,Fall,Excellent,2.3,Yes,Next Day Air,No,30,Credit Card,Quarterly
+CUST0500,55,Male,Sandals,Outerwear,9579,Pune,S,Yellow,Winter,Excellent,3.9,No,Next Day Air,No,47,Bank Transfer,Annually
+CUST0501,64,Other,Sneakers,Clothing,8237,Pune,9,Brown,Fall,Good,4.1,Yes,Next Day Air,No,35,Credit Card,Monthly
+CUST0502,59,Female,T-shirt,Clothing,8356,Lucknow,7,Purple,Fall,Excellent,2.5,Yes,Next Day Air,No,28,Debit Card,Annually
+CUST0503,32,Other,Skirt,Outerwear,10114,Ahmedabad,L,Green,Fall,Poor,4.5,No,Next Day Air,Yes,39,Debit Card,Monthly
+CUST0504,62,Other,Sweater,Accessories,2365,Bangalore,XL,Blue,Fall,Excellent,4.4,No,Express,Yes,13,Bank Transfer,Weekly
+CUST0505,19,Female,Sneakers,Outerwear,11340,Bangalore,L,Brown,Winter,Excellent,3,Yes,Store Pickup,Yes,7,Bank Transfer,Fortnightly
+CUST0506,49,Female,Shirt,Outerwear,12855,Mumbai,10,Green,Spring,Very Good,3.8,Yes,Free Shipping,No,29,Credit Card,Weekly
+CUST0507,68,Other,Coat,Clothing,13744,Jaipur,S,Brown,Winter,Good,3.9,Yes,Express,Yes,46,PayPal,Quarterly
+CUST0508,66,Other,T-shirt,Clothing,2777,Kolkata,7,Blue,Winter,Good,3.3,No,Free Shipping,Yes,30,PayPal,Monthly
+CUST0509,50,Male,Sweater,Outerwear,6351,Pune,7,Red,Spring,Very Good,3.3,Yes,Standard,No,26,Cash on Delivery,Quarterly
+CUST0510,51,Other,Shirt,Clothing,7501,Bangalore,S,Brown,Winter,Excellent,3,No,Standard,No,3,Cash on Delivery,Weekly
+CUST0511,60,Other,Jeans,Clothing,10598,Jaipur,XXL,Pink,Fall,Very Good,4.6,No,Express,Yes,17,Bank Transfer,Annually
+CUST0512,27,Other,Jacket,Accessories,10799,Hyderabad,10,Grey,Fall,Average,4.7,No,Standard,No,5,Credit Card,Annually
+CUST0513,39,Female,Shorts,Footwear,8777,Jaipur,XXL,Red,Winter,Very Good,3.7,No,Standard,Yes,1,Bank Transfer,Annually
+CUST0514,34,Male,Hoodie,Outerwear,12153,Pune,10,White,Winter,Average,2.8,No,Free Shipping,Yes,48,UPI,Weekly
+CUST0515,46,Female,Coat,Clothing,7674,Kolkata,XL,Grey,Spring,Average,2.9,Yes,Next Day Air,Yes,6,PayPal,Annually
+CUST0516,55,Male,Hoodie,Outerwear,7693,Delhi,L,Pink,Fall,Excellent,2.3,No,Standard,No,13,Cash on Delivery,Weekly
+CUST0517,41,Other,Dress,Accessories,9887,Jaipur,10,Pink,Summer,Very Good,3.5,No,Next Day Air,No,46,Cash on Delivery,Fortnightly
+CUST0518,27,Other,Jeans,Accessories,11901,Ahmedabad,L,Brown,Winter,Good,3.4,Yes,Standard,No,7,Bank Transfer,Quarterly
+CUST0519,25,Male,Shirt,Outerwear,909,Jaipur,L,White,Summer,Average,5,No,Express,No,1,Debit Card,Fortnightly
+CUST0520,68,Other,Jacket,Clothing,14901,Chennai,XXL,Red,Spring,Poor,2,No,Free Shipping,Yes,26,Cash on Delivery,Annually
+CUST0521,37,Other,T-shirt,Outerwear,13051,Pune,9,Grey,Spring,Good,3.5,No,Next Day Air,No,9,UPI,Monthly
+CUST0522,23,Other,Skirt,Accessories,6594,Hyderabad,8,Yellow,Winter,Poor,4.2,Yes,Standard,Yes,36,UPI,Monthly
+CUST0523,53,Other,Sweater,Clothing,3402,Lucknow,10,Grey,Winter,Very Good,3.6,No,Store Pickup,Yes,7,UPI,Annually
+CUST0524,29,Male,Sneakers,Footwear,4268,Lucknow,9,White,Summer,Poor,3.8,No,Free Shipping,No,27,Debit Card,Quarterly
+CUST0525,19,Other,Shirt,Accessories,4463,Delhi,M,White,Spring,Average,2.4,No,Free Shipping,Yes,19,Cash on Delivery,Fortnightly
+CUST0526,21,Other,Shirt,Footwear,695,Mumbai,XXL,Pink,Winter,Average,2.4,No,Express,No,7,Credit Card,Fortnightly
+CUST0527,33,Other,Coat,Footwear,8326,Jaipur,10,Pink,Winter,Average,2.2,No,Store Pickup,No,4,Cash on Delivery,Weekly
+CUST0528,44,Other,Sandals,Clothing,4659,Jaipur,11,White,Spring,Very Good,4,Yes,Express,No,28,Credit Card,Annually
+CUST0529,31,Male,Shirt,Footwear,13062,Hyderabad,10,Pink,Fall,Excellent,2,No,Store Pickup,No,41,Debit Card,Weekly
+CUST0530,21,Female,Sneakers,Outerwear,14004,Pune,7,Red,Summer,Excellent,2.5,Yes,Express,Yes,25,UPI,Weekly
+CUST0531,26,Other,Dress,Outerwear,14639,Pune,XL,Grey,Summer,Average,3.9,No,Express,Yes,42,PayPal,Monthly
+CUST0532,31,Female,Coat,Outerwear,510,Bangalore,S,Grey,Fall,Excellent,4.7,Yes,Next Day Air,No,48,Cash on Delivery,Annually
+CUST0533,23,Other,Skirt,Clothing,9075,Mumbai,9,White,Summer,Poor,4.5,No,Next Day Air,Yes,49,UPI,Weekly
+CUST0534,25,Female,Shirt,Footwear,7533,Mumbai,XL,Black,Summer,Average,2.6,No,Standard,Yes,31,PayPal,Weekly
+CUST0535,35,Female,Shorts,Footwear,366,Hyderabad,8,White,Summer,Very Good,3.5,Yes,Store Pickup,Yes,42,UPI,Annually
+CUST0536,61,Other,Coat,Footwear,1320,Lucknow,L,White,Spring,Average,4.8,Yes,Store Pickup,No,12,UPI,Weekly
+CUST0537,62,Other,Dress,Outerwear,11402,Jaipur,9,Black,Fall,Excellent,4.6,No,Next Day Air,No,17,Credit Card,Annually
+CUST0538,47,Female,Shirt,Clothing,14730,Hyderabad,S,Green,Fall,Very Good,3.3,Yes,Next Day Air,Yes,21,Credit Card,Annually
+CUST0539,69,Male,Shorts,Footwear,11547,Pune,M,Red,Spring,Good,3,Yes,Free Shipping,Yes,30,Cash on Delivery,Weekly
+CUST0540,55,Other,Shirt,Outerwear,4299,Delhi,9,Red,Summer,Excellent,4.5,Yes,Free Shipping,No,48,Credit Card,Quarterly
+CUST0541,55,Male,Sweater,Clothing,796,Pune,7,White,Spring,Excellent,4.8,No,Free Shipping,No,39,UPI,Quarterly
+CUST0542,22,Male,Skirt,Clothing,9412,Mumbai,XXL,Pink,Fall,Excellent,3.9,No,Standard,Yes,29,Cash on Delivery,Quarterly
+CUST0543,68,Female,Coat,Clothing,5814,Mumbai,9,Brown,Summer,Very Good,2.6,Yes,Free Shipping,Yes,37,Debit Card,Annually
+CUST0544,26,Other,Dress,Outerwear,6072,Pune,9,Grey,Fall,Good,2.7,Yes,Free Shipping,Yes,19,Bank Transfer,Quarterly
+CUST0545,50,Other,Hoodie,Outerwear,5348,Lucknow,10,Blue,Spring,Poor,2.9,No,Express,No,0,Bank Transfer,Annually
+CUST0546,60,Other,Jeans,Clothing,4139,Jaipur,10,Black,Fall,Average,2.6,Yes,Standard,Yes,21,Debit Card,Quarterly
+CUST0547,62,Other,T-shirt,Outerwear,14209,Lucknow,11,Yellow,Summer,Poor,3,Yes,Next Day Air,Yes,31,Debit Card,Weekly
+CUST0548,58,Male,Shorts,Footwear,7893,Lucknow,XL,Red,Fall,Average,4.4,No,Standard,No,11,Credit Card,Monthly
+CUST0549,18,Male,Shirt,Clothing,9338,Delhi,L,Green,Fall,Good,3.9,No,Free Shipping,Yes,12,Debit Card,Monthly
+CUST0550,29,Male,Sneakers,Footwear,5817,Jaipur,XL,Blue,Spring,Excellent,2.5,No,Free Shipping,Yes,43,Debit Card,Quarterly
+CUST0551,59,Male,Shirt,Footwear,5248,Ahmedabad,XL,Yellow,Summer,Good,4.8,No,Free Shipping,Yes,9,Debit Card,Fortnightly
+CUST0552,30,Other,Jacket,Outerwear,5459,Lucknow,8,Red,Winter,Very Good,3.8,No,Standard,No,15,Credit Card,Monthly
+CUST0553,26,Other,Coat,Accessories,3678,Delhi,9,Grey,Winter,Good,3.5,No,Next Day Air,No,11,PayPal,Monthly
+CUST0554,51,Other,T-shirt,Accessories,8012,Chennai,11,Pink,Winter,Good,2.7,Yes,Next Day Air,Yes,25,Debit Card,Monthly
+CUST0555,45,Female,Coat,Footwear,14052,Kolkata,XXL,Brown,Winter,Good,4.3,No,Next Day Air,No,14,Bank Transfer,Weekly
+CUST0556,47,Other,Coat,Outerwear,7231,Ahmedabad,9,Pink,Fall,Average,4.4,No,Express,No,1,Debit Card,Quarterly
+CUST0557,32,Female,Skirt,Clothing,6133,Delhi,XXL,Brown,Winter,Average,4.8,Yes,Free Shipping,Yes,23,Credit Card,Annually
+CUST0558,30,Female,Sandals,Outerwear,4346,Chennai,XXL,Red,Spring,Very Good,4.7,Yes,Express,No,22,Cash on Delivery,Quarterly
+CUST0559,70,Other,Hoodie,Clothing,7983,Jaipur,L,Pink,Spring,Good,4.2,Yes,Next Day Air,Yes,33,Bank Transfer,Annually
+CUST0560,66,Female,Shorts,Accessories,5831,Delhi,7,Red,Fall,Poor,2.6,No,Store Pickup,Yes,23,Debit Card,Annually
+CUST0561,26,Female,Shorts,Clothing,8438,Kolkata,7,Red,Fall,Poor,4.1,No,Store Pickup,No,20,Bank Transfer,Weekly
+CUST0562,54,Male,Jeans,Footwear,5660,Lucknow,11,Grey,Fall,Poor,2.6,No,Free Shipping,No,12,Cash on Delivery,Weekly
+CUST0563,39,Other,T-shirt,Outerwear,1777,Bangalore,M,Brown,Spring,Excellent,4.5,No,Free Shipping,Yes,12,Credit Card,Quarterly
+CUST0564,36,Male,Sandals,Outerwear,11056,Jaipur,M,Purple,Winter,Average,3.6,Yes,Express,No,25,Debit Card,Weekly
+CUST0565,26,Other,Jacket,Accessories,12425,Delhi,8,Red,Spring,Good,2.9,No,Standard,No,37,Debit Card,Annually
+CUST0566,63,Other,T-shirt,Outerwear,3554,Mumbai,L,Purple,Winter,Poor,3.8,Yes,Store Pickup,No,36,Cash on Delivery,Quarterly
+CUST0567,47,Other,Blouse,Clothing,4967,Ahmedabad,7,Green,Fall,Very Good,4.5,Yes,Next Day Air,Yes,11,Bank Transfer,Quarterly
+CUST0568,47,Female,Skirt,Footwear,11694,Lucknow,M,Pink,Winter,Good,4.7,Yes,Express,No,42,Credit Card,Fortnightly
+CUST0569,49,Female,Hoodie,Clothing,6291,Delhi,M,Brown,Summer,Poor,3.4,No,Standard,Yes,29,Credit Card,Weekly
+CUST0570,58,Other,Skirt,Accessories,6494,Kolkata,8,Red,Fall,Excellent,2,Yes,Standard,No,42,UPI,Quarterly
+CUST0571,49,Female,Sweater,Clothing,9235,Hyderabad,9,Blue,Fall,Average,4.5,Yes,Free Shipping,Yes,11,PayPal,Weekly
+CUST0572,52,Other,Jacket,Footwear,1521,Mumbai,XXL,Blue,Fall,Average,2.5,Yes,Store Pickup,Yes,28,UPI,Weekly
+CUST0573,58,Other,Skirt,Clothing,6649,Chennai,9,Black,Winter,Excellent,4.3,Yes,Standard,No,15,Debit Card,Weekly
+CUST0574,19,Female,Blouse,Clothing,5773,Hyderabad,M,Red,Winter,Good,4.2,Yes,Next Day Air,Yes,20,PayPal,Annually
+CUST0575,58,Male,Coat,Footwear,9125,Pune,8,White,Spring,Good,2.3,No,Standard,Yes,25,UPI,Monthly
+CUST0576,18,Female,Sandals,Accessories,3856,Delhi,XXL,Grey,Summer,Excellent,2.2,Yes,Next Day Air,No,49,Bank Transfer,Quarterly
+CUST0577,24,Other,Dress,Footwear,4377,Delhi,11,Yellow,Fall,Good,3,No,Next Day Air,Yes,21,Credit Card,Annually
+CUST0578,55,Female,Jacket,Footwear,8498,Lucknow,S,Red,Winter,Very Good,4.3,Yes,Express,Yes,47,Cash on Delivery,Fortnightly
+CUST0579,57,Male,Blouse,Footwear,6386,Ahmedabad,XXL,Red,Spring,Poor,2.6,Yes,Standard,No,47,PayPal,Fortnightly
+CUST0580,35,Female,Skirt,Clothing,8783,Pune,XXL,Black,Spring,Average,3,Yes,Store Pickup,Yes,42,Debit Card,Fortnightly
+CUST0581,56,Female,Dress,Outerwear,3257,Ahmedabad,S,White,Fall,Excellent,4.9,Yes,Standard,Yes,8,Credit Card,Fortnightly
+CUST0582,55,Other,Hoodie,Footwear,4121,Jaipur,M,Pink,Fall,Average,2.5,Yes,Standard,No,11,Bank Transfer,Fortnightly
+CUST0583,37,Female,Coat,Accessories,10663,Hyderabad,XXL,Purple,Winter,Average,3.2,Yes,Next Day Air,No,27,Bank Transfer,Annually
+CUST0584,65,Female,Hoodie,Footwear,13678,Ahmedabad,S,Pink,Fall,Excellent,4.3,No,Store Pickup,Yes,35,UPI,Fortnightly
+CUST0585,34,Female,T-shirt,Outerwear,7681,Chennai,8,Brown,Fall,Excellent,3,No,Standard,Yes,12,Credit Card,Weekly
+CUST0586,50,Other,Shorts,Outerwear,8301,Pune,8,Pink,Summer,Poor,3.5,Yes,Next Day Air,Yes,7,Cash on Delivery,Annually
+CUST0587,28,Male,Hoodie,Accessories,4432,Kolkata,10,Purple,Summer,Excellent,4,No,Standard,Yes,30,Credit Card,Monthly
+CUST0588,58,Other,Skirt,Clothing,11677,Bangalore,XXL,Grey,Fall,Good,2.8,Yes,Free Shipping,Yes,49,Credit Card,Quarterly
+CUST0589,43,Other,Coat,Clothing,8745,Hyderabad,8,Blue,Fall,Average,4.1,No,Store Pickup,No,46,Cash on Delivery,Weekly
+CUST0590,24,Other,Coat,Outerwear,13590,Bangalore,XXL,Red,Fall,Average,2,Yes,Next Day Air,Yes,6,Credit Card,Quarterly
+CUST0591,51,Female,Skirt,Outerwear,12260,Pune,L,Blue,Summer,Good,4.1,Yes,Next Day Air,Yes,32,Credit Card,Quarterly
+CUST0592,54,Male,Jeans,Footwear,1216,Bangalore,XL,Green,Fall,Poor,3.9,Yes,Standard,Yes,18,Credit Card,Quarterly
+CUST0593,25,Female,Sweater,Outerwear,736,Lucknow,XL,Purple,Fall,Excellent,2,No,Free Shipping,Yes,6,Debit Card,Annually
+CUST0594,68,Male,Jacket,Outerwear,8211,Ahmedabad,7,Grey,Fall,Average,3.1,No,Express,Yes,23,UPI,Quarterly
+CUST0595,42,Other,Blouse,Outerwear,14554,Kolkata,M,Black,Fall,Poor,4.2,Yes,Free Shipping,Yes,33,PayPal,Fortnightly
+CUST0596,41,Female,Coat,Accessories,8686,Pune,XL,Black,Summer,Excellent,3.9,Yes,Express,No,14,Bank Transfer,Quarterly
+CUST0597,43,Other,Coat,Clothing,5957,Pune,9,White,Fall,Average,3.8,Yes,Store Pickup,Yes,8,Cash on Delivery,Weekly
+CUST0598,37,Other,Dress,Accessories,3003,Ahmedabad,M,Purple,Spring,Good,2.6,Yes,Free Shipping,No,45,Credit Card,Fortnightly
+CUST0599,38,Female,Hoodie,Outerwear,3860,Chennai,9,White,Spring,Very Good,3.9,No,Free Shipping,No,14,Bank Transfer,Annually
+CUST0600,22,Other,Shirt,Accessories,12004,Pune,10,Pink,Spring,Good,2.8,No,Free Shipping,Yes,5,PayPal,Annually
+CUST0601,30,Other,Sweater,Outerwear,2337,Kolkata,8,Grey,Winter,Average,2.2,Yes,Next Day Air,No,20,PayPal,Fortnightly
+CUST0602,51,Other,Coat,Footwear,1996,Pune,S,Brown,Fall,Average,2.4,No,Standard,No,43,Cash on Delivery,Fortnightly
+CUST0603,56,Female,Jeans,Clothing,10062,Kolkata,XXL,Brown,Winter,Average,5,No,Standard,No,18,UPI,Quarterly
+CUST0604,21,Female,Jeans,Footwear,14144,Hyderabad,S,Blue,Fall,Poor,2.9,Yes,Free Shipping,No,21,Cash on Delivery,Quarterly
+CUST0605,40,Female,Jacket,Clothing,8898,Chennai,XXL,Red,Fall,Excellent,2.4,Yes,Express,No,41,Debit Card,Annually
+CUST0606,26,Female,Shorts,Accessories,5019,Bangalore,XL,Red,Spring,Excellent,3.1,Yes,Standard,No,27,UPI,Fortnightly
+CUST0607,21,Male,Shirt,Accessories,3193,Mumbai,M,Brown,Summer,Very Good,3.3,Yes,Next Day Air,Yes,2,Credit Card,Fortnightly
+CUST0608,43,Female,Sneakers,Footwear,10945,Pune,M,Purple,Fall,Average,3.9,No,Express,Yes,7,Credit Card,Weekly
+CUST0609,25,Female,Skirt,Footwear,627,Lucknow,11,Grey,Fall,Average,4.1,Yes,Store Pickup,Yes,24,Cash on Delivery,Quarterly
+CUST0610,37,Other,Jeans,Clothing,5578,Delhi,10,Blue,Fall,Excellent,3.2,No,Free Shipping,Yes,48,Debit Card,Weekly
+CUST0611,29,Other,Shorts,Footwear,337,Jaipur,9,Yellow,Winter,Excellent,2.4,Yes,Standard,Yes,35,PayPal,Weekly
+CUST0612,23,Male,Dress,Outerwear,6206,Jaipur,L,Pink,Winter,Good,2.9,No,Store Pickup,No,8,Bank Transfer,Quarterly
+CUST0613,62,Female,Dress,Outerwear,10181,Jaipur,10,Red,Winter,Excellent,2.7,Yes,Standard,No,13,Debit Card,Annually
+CUST0614,53,Male,Coat,Outerwear,4794,Bangalore,11,Pink,Winter,Very Good,2.8,No,Standard,No,29,Credit Card,Monthly
+CUST0615,61,Female,Shorts,Footwear,9030,Hyderabad,M,Green,Spring,Average,3.7,Yes,Next Day Air,Yes,20,Cash on Delivery,Quarterly
+CUST0616,19,Other,Sandals,Clothing,4675,Delhi,10,White,Fall,Excellent,3,Yes,Express,No,49,PayPal,Fortnightly
+CUST0617,69,Male,Sneakers,Clothing,1854,Pune,XL,Pink,Winter,Excellent,2.5,No,Store Pickup,No,6,Bank Transfer,Monthly
+CUST0618,62,Other,Sneakers,Outerwear,10202,Delhi,S,Blue,Summer,Poor,2.5,No,Next Day Air,Yes,16,Credit Card,Annually
+CUST0619,63,Male,Skirt,Footwear,2587,Pune,11,Green,Winter,Average,4.1,Yes,Store Pickup,No,45,Cash on Delivery,Fortnightly
+CUST0620,46,Female,Hoodie,Accessories,8478,Chennai,XXL,Pink,Spring,Average,3.9,Yes,Express,No,49,PayPal,Weekly
+CUST0621,58,Male,Sweater,Footwear,1784,Bangalore,11,Black,Winter,Average,3.7,No,Free Shipping,No,43,Bank Transfer,Fortnightly
+CUST0622,48,Female,Dress,Clothing,6893,Mumbai,11,Red,Winter,Poor,4.1,No,Standard,Yes,38,Cash on Delivery,Fortnightly
+CUST0623,61,Other,Sandals,Footwear,1480,Kolkata,L,Brown,Summer,Excellent,3.3,No,Standard,No,7,PayPal,Fortnightly
+CUST0624,52,Male,Sneakers,Outerwear,8165,Chennai,XXL,Red,Winter,Very Good,3.2,No,Store Pickup,Yes,29,Bank Transfer,Quarterly
+CUST0625,21,Female,Blouse,Accessories,5632,Chennai,7,White,Winter,Average,4.7,Yes,Next Day Air,No,0,Credit Card,Quarterly
+CUST0626,49,Male,Sweater,Footwear,6979,Delhi,9,Black,Spring,Average,2.7,No,Express,No,23,Cash on Delivery,Fortnightly
+CUST0627,52,Female,Sweater,Accessories,11002,Ahmedabad,L,Blue,Summer,Poor,2,Yes,Free Shipping,Yes,18,Credit Card,Fortnightly
+CUST0628,43,Female,Shorts,Outerwear,767,Bangalore,XL,Purple,Summer,Excellent,3.3,No,Standard,No,48,Cash on Delivery,Annually
+CUST0629,64,Other,Jacket,Footwear,2047,Delhi,S,Blue,Spring,Average,3.5,Yes,Free Shipping,No,27,Bank Transfer,Weekly
+CUST0630,45,Female,Sneakers,Outerwear,8211,Delhi,8,Red,Spring,Very Good,2.6,No,Free Shipping,No,44,Debit Card,Quarterly
+CUST0631,30,Female,Shorts,Clothing,11737,Jaipur,11,Blue,Spring,Very Good,3.9,Yes,Standard,Yes,8,Cash on Delivery,Weekly
+CUST0632,35,Male,Jeans,Accessories,539,Lucknow,XL,White,Winter,Poor,3.2,No,Standard,Yes,21,Cash on Delivery,Quarterly
+CUST0633,21,Other,Jacket,Clothing,5235,Delhi,XXL,Yellow,Summer,Average,4.1,Yes,Express,Yes,11,Credit Card,Weekly
+CUST0634,21,Other,Shorts,Outerwear,3723,Chennai,9,Green,Winter,Poor,2.6,No,Express,No,19,Credit Card,Weekly
+CUST0635,60,Male,Skirt,Footwear,5676,Kolkata,7,Grey,Summer,Good,4,Yes,Store Pickup,No,5,Credit Card,Fortnightly
+CUST0636,58,Other,Coat,Clothing,922,Lucknow,XL,Red,Fall,Excellent,2.2,No,Express,No,48,Debit Card,Annually
+CUST0637,64,Male,Blouse,Footwear,3390,Pune,10,Green,Summer,Average,3.3,Yes,Next Day Air,Yes,30,Cash on Delivery,Annually
+CUST0638,50,Male,Jeans,Outerwear,11664,Bangalore,XXL,Black,Winter,Good,4.2,No,Next Day Air,Yes,10,Cash on Delivery,Annually
+CUST0639,42,Other,Hoodie,Accessories,6817,Lucknow,XXL,Red,Spring,Excellent,2.5,Yes,Store Pickup,Yes,50,Bank Transfer,Quarterly
+CUST0640,50,Other,Shorts,Outerwear,5221,Hyderabad,XXL,Green,Winter,Good,2.7,Yes,Express,Yes,40,Debit Card,Monthly
+CUST0641,26,Female,Hoodie,Clothing,10775,Hyderabad,XL,Brown,Winter,Excellent,3.9,No,Express,Yes,45,Bank Transfer,Monthly
+CUST0642,64,Male,Jacket,Outerwear,5568,Mumbai,S,Yellow,Spring,Average,2.5,Yes,Store Pickup,Yes,46,UPI,Quarterly
+CUST0643,59,Female,Skirt,Footwear,13633,Ahmedabad,XL,Yellow,Summer,Good,3.7,No,Standard,No,14,UPI,Quarterly
+CUST0644,41,Male,T-shirt,Clothing,8375,Bangalore,9,Blue,Spring,Good,3.7,Yes,Express,Yes,19,Debit Card,Fortnightly
+CUST0645,70,Female,Skirt,Footwear,1387,Bangalore,M,Pink,Spring,Poor,4.7,No,Free Shipping,Yes,46,Credit Card,Annually
+CUST0646,24,Female,Jacket,Clothing,2052,Mumbai,S,Blue,Spring,Excellent,2.8,Yes,Free Shipping,Yes,34,UPI,Monthly
+CUST0647,63,Male,Sandals,Footwear,8121,Lucknow,9,Blue,Summer,Average,3.4,Yes,Free Shipping,No,40,Bank Transfer,Weekly
+CUST0648,19,Male,Sweater,Outerwear,1930,Jaipur,8,Blue,Winter,Good,2.1,No,Next Day Air,Yes,22,UPI,Monthly
+CUST0649,32,Other,Jacket,Clothing,8307,Bangalore,M,Red,Winter,Average,3.1,No,Free Shipping,No,5,Credit Card,Annually
+CUST0650,27,Male,Jacket,Outerwear,10074,Bangalore,8,Blue,Summer,Very Good,4.5,No,Free Shipping,No,31,UPI,Monthly
+CUST0651,34,Other,Hoodie,Clothing,13174,Mumbai,L,Blue,Summer,Good,3.2,No,Free Shipping,Yes,36,Cash on Delivery,Monthly
+CUST0652,27,Male,Shirt,Footwear,3229,Pune,7,Yellow,Fall,Poor,3.4,No,Store Pickup,No,8,UPI,Fortnightly
+CUST0653,42,Female,Dress,Accessories,9076,Jaipur,9,Brown,Spring,Poor,2.3,No,Store Pickup,Yes,44,Credit Card,Fortnightly
+CUST0654,41,Male,Sandals,Clothing,6187,Jaipur,9,Blue,Winter,Excellent,4.7,No,Standard,No,29,Debit Card,Annually
+CUST0655,44,Male,Sandals,Footwear,1165,Bangalore,M,Blue,Fall,Excellent,4.1,No,Express,Yes,44,Credit Card,Annually
+CUST0656,22,Female,Coat,Footwear,744,Bangalore,7,Blue,Winter,Good,2.2,No,Standard,Yes,30,UPI,Fortnightly
+CUST0657,65,Other,Shorts,Outerwear,7953,Pune,7,Purple,Winter,Average,2.3,Yes,Free Shipping,Yes,32,Debit Card,Weekly
+CUST0658,43,Female,Skirt,Accessories,9329,Chennai,11,Brown,Summer,Good,3.3,Yes,Express,Yes,33,Cash on Delivery,Fortnightly
+CUST0659,65,Male,Jacket,Clothing,3836,Pune,L,Brown,Winter,Poor,3.4,No,Next Day Air,Yes,3,PayPal,Quarterly
+CUST0660,30,Female,Sweater,Clothing,1524,Kolkata,11,Yellow,Winter,Good,2.8,Yes,Free Shipping,Yes,38,Credit Card,Monthly
+CUST0661,30,Other,Sandals,Clothing,4187,Chennai,M,Grey,Winter,Very Good,5,No,Free Shipping,Yes,20,Credit Card,Monthly
+CUST0662,18,Female,Hoodie,Outerwear,6773,Jaipur,XL,Yellow,Fall,Average,4.9,Yes,Express,No,47,Bank Transfer,Weekly
+CUST0663,50,Male,Blouse,Accessories,8064,Lucknow,S,Green,Spring,Good,4,Yes,Free Shipping,Yes,13,UPI,Fortnightly
+CUST0664,67,Other,Jeans,Outerwear,7581,Bangalore,7,Green,Summer,Very Good,4.6,No,Free Shipping,No,15,Debit Card,Annually
+CUST0665,56,Male,Jeans,Accessories,1845,Mumbai,L,Green,Winter,Poor,2.3,No,Standard,No,10,Credit Card,Monthly
+CUST0666,54,Female,Shirt,Clothing,1415,Bangalore,9,Green,Fall,Average,4.3,No,Standard,Yes,36,Cash on Delivery,Weekly
+CUST0667,41,Female,Jacket,Accessories,14291,Lucknow,L,Purple,Summer,Very Good,4.5,No,Express,Yes,43,Cash on Delivery,Annually
+CUST0668,46,Female,Skirt,Clothing,10418,Mumbai,XL,Brown,Winter,Good,4.6,No,Next Day Air,Yes,36,Cash on Delivery,Weekly
+CUST0669,32,Female,T-shirt,Clothing,5966,Ahmedabad,9,Brown,Fall,Excellent,2.3,Yes,Next Day Air,No,12,Cash on Delivery,Monthly
+CUST0670,22,Female,Shirt,Accessories,3733,Ahmedabad,M,Green,Fall,Excellent,3.6,No,Standard,Yes,20,Bank Transfer,Weekly
+CUST0671,56,Female,Blouse,Outerwear,13186,Pune,9,Red,Winter,Good,4.6,No,Express,No,40,Debit Card,Weekly
+CUST0672,27,Male,Sneakers,Accessories,1588,Chennai,9,Pink,Spring,Average,2.6,Yes,Free Shipping,No,21,PayPal,Fortnightly
+CUST0673,30,Female,Jacket,Accessories,8040,Jaipur,L,Pink,Summer,Very Good,3.2,Yes,Store Pickup,Yes,4,UPI,Annually
+CUST0674,57,Male,Shirt,Outerwear,482,Bangalore,9,Blue,Fall,Average,2.3,No,Express,Yes,28,Debit Card,Quarterly
+CUST0675,58,Other,Sweater,Clothing,3831,Hyderabad,8,Brown,Spring,Very Good,3.1,No,Standard,Yes,43,Bank Transfer,Weekly
+CUST0676,41,Female,Blouse,Outerwear,14940,Chennai,10,White,Fall,Poor,3.2,No,Express,No,33,PayPal,Weekly
+CUST0677,29,Female,Jacket,Outerwear,3148,Jaipur,11,Blue,Fall,Poor,2.9,No,Express,Yes,5,Credit Card,Weekly
+CUST0678,59,Male,Coat,Accessories,1948,Ahmedabad,11,Brown,Winter,Poor,3.5,Yes,Express,No,13,Debit Card,Quarterly
+CUST0679,53,Female,Sweater,Footwear,14280,Ahmedabad,M,Yellow,Fall,Poor,4.7,No,Free Shipping,No,50,Debit Card,Annually
+CUST0680,36,Female,Skirt,Outerwear,5286,Pune,XL,Black,Fall,Excellent,2,Yes,Express,No,21,Debit Card,Annually
+CUST0681,45,Male,Dress,Accessories,3406,Lucknow,8,Black,Fall,Good,4.8,No,Standard,No,20,Bank Transfer,Fortnightly
+CUST0682,45,Male,Sweater,Footwear,8511,Delhi,11,Pink,Summer,Very Good,2.5,No,Standard,Yes,5,Credit Card,Quarterly
+CUST0683,18,Other,Hoodie,Footwear,705,Lucknow,10,White,Fall,Excellent,4.2,Yes,Next Day Air,No,11,Debit Card,Fortnightly
+CUST0684,37,Male,Dress,Footwear,12149,Pune,XXL,Black,Summer,Excellent,4.8,Yes,Store Pickup,Yes,7,Cash on Delivery,Annually
+CUST0685,25,Male,Jeans,Outerwear,4542,Bangalore,M,White,Fall,Average,4.7,Yes,Next Day Air,Yes,31,Credit Card,Quarterly
+CUST0686,22,Female,Skirt,Clothing,3695,Pune,8,Yellow,Fall,Good,2.5,Yes,Standard,Yes,7,PayPal,Monthly
+CUST0687,48,Other,Coat,Clothing,2845,Jaipur,XXL,White,Spring,Very Good,2.1,Yes,Store Pickup,Yes,13,PayPal,Weekly
+CUST0688,31,Male,Shirt,Footwear,3850,Delhi,L,Green,Summer,Poor,2.6,Yes,Express,No,29,UPI,Quarterly
+CUST0689,45,Other,Jacket,Footwear,4347,Bangalore,XL,Green,Fall,Excellent,3.8,No,Standard,Yes,46,Cash on Delivery,Quarterly
+CUST0690,46,Female,Coat,Outerwear,13617,Kolkata,11,White,Fall,Poor,2.6,No,Express,Yes,28,Debit Card,Weekly
+CUST0691,50,Female,Coat,Accessories,5058,Lucknow,10,Yellow,Fall,Excellent,2.3,No,Next Day Air,Yes,22,Debit Card,Weekly
+CUST0692,31,Other,Shirt,Outerwear,2626,Kolkata,M,Black,Summer,Excellent,4.2,Yes,Next Day Air,No,14,Bank Transfer,Weekly
+CUST0693,42,Female,Coat,Footwear,8888,Hyderabad,M,Brown,Summer,Very Good,4.8,Yes,Store Pickup,No,43,Cash on Delivery,Monthly
+CUST0694,70,Female,Sandals,Footwear,1063,Ahmedabad,9,Black,Summer,Poor,2.4,No,Standard,No,37,Cash on Delivery,Fortnightly
+CUST0695,54,Male,Sneakers,Clothing,10795,Lucknow,S,Purple,Summer,Good,4.5,No,Free Shipping,Yes,21,UPI,Weekly
+CUST0696,22,Female,Sweater,Accessories,12099,Chennai,XXL,Yellow,Summer,Poor,2.2,No,Next Day Air,Yes,25,PayPal,Quarterly
+CUST0697,49,Other,Sweater,Outerwear,10374,Delhi,S,Red,Winter,Excellent,2.4,No,Next Day Air,Yes,10,Credit Card,Fortnightly
+CUST0698,64,Female,Dress,Clothing,11526,Mumbai,XXL,Black,Winter,Excellent,4.8,Yes,Express,No,44,Bank Transfer,Quarterly
+CUST0699,35,Other,Jeans,Footwear,9809,Ahmedabad,M,Blue,Summer,Good,4.3,No,Next Day Air,Yes,33,Bank Transfer,Fortnightly
+CUST0700,54,Female,Skirt,Accessories,4846,Kolkata,9,Red,Winter,Average,4.3,Yes,Express,Yes,42,UPI,Fortnightly
+CUST0701,62,Male,Sweater,Accessories,1237,Hyderabad,S,Red,Fall,Poor,2.6,Yes,Express,Yes,37,Bank Transfer,Annually
+CUST0702,38,Female,Shorts,Accessories,10986,Bangalore,10,White,Spring,Good,4.8,No,Next Day Air,Yes,49,Cash on Delivery,Fortnightly
+CUST0703,22,Female,Jacket,Footwear,11493,Chennai,11,White,Spring,Poor,4.6,Yes,Standard,Yes,29,Debit Card,Monthly
+CUST0704,19,Female,Skirt,Accessories,6016,Chennai,M,Brown,Winter,Average,3.3,Yes,Next Day Air,No,32,PayPal,Weekly
+CUST0705,46,Female,Shirt,Clothing,1055,Pune,8,Red,Summer,Good,3.2,No,Store Pickup,No,33,Cash on Delivery,Weekly
+CUST0706,61,Male,Skirt,Footwear,2069,Hyderabad,M,Black,Winter,Very Good,2.8,Yes,Store Pickup,Yes,17,Debit Card,Annually
+CUST0707,62,Other,Jacket,Accessories,6687,Delhi,XL,Green,Fall,Good,2.5,Yes,Express,No,45,Bank Transfer,Monthly
+CUST0708,64,Male,Sweater,Footwear,8495,Lucknow,9,Green,Spring,Good,2.9,Yes,Standard,Yes,21,Cash on Delivery,Fortnightly
+CUST0709,18,Other,T-shirt,Accessories,5723,Mumbai,L,Green,Winter,Good,4,Yes,Store Pickup,No,30,Bank Transfer,Weekly
+CUST0710,49,Male,T-shirt,Clothing,990,Mumbai,11,Green,Spring,Very Good,3.5,Yes,Free Shipping,Yes,19,UPI,Monthly
+CUST0711,46,Female,Shorts,Outerwear,9190,Chennai,9,Green,Summer,Poor,2,No,Express,No,33,UPI,Annually
+CUST0712,48,Male,Sneakers,Clothing,2673,Pune,XL,Blue,Summer,Poor,2.1,No,Express,Yes,47,Credit Card,Fortnightly
+CUST0713,42,Other,Sweater,Outerwear,14621,Jaipur,9,Brown,Spring,Average,4.7,No,Express,No,37,Cash on Delivery,Monthly
+CUST0714,37,Male,Blouse,Outerwear,13917,Lucknow,M,Pink,Fall,Very Good,4.9,No,Express,Yes,0,Cash on Delivery,Fortnightly
+CUST0715,47,Other,Jeans,Outerwear,10470,Jaipur,L,Green,Fall,Average,2.2,No,Free Shipping,No,2,Debit Card,Monthly
+CUST0716,70,Other,Sweater,Clothing,8251,Chennai,S,Pink,Summer,Excellent,2.1,Yes,Express,No,50,Bank Transfer,Annually
+CUST0717,27,Male,Shorts,Outerwear,2587,Hyderabad,8,Grey,Winter,Average,2.7,No,Express,Yes,43,UPI,Quarterly
+CUST0718,45,Female,Sweater,Outerwear,5198,Lucknow,XXL,Blue,Fall,Average,4.4,Yes,Standard,No,8,Cash on Delivery,Annually
+CUST0719,30,Female,Sneakers,Clothing,5121,Lucknow,9,Brown,Spring,Poor,4.3,No,Free Shipping,Yes,33,Cash on Delivery,Monthly
+CUST0720,50,Other,Shorts,Outerwear,7923,Kolkata,8,Purple,Fall,Poor,3.4,Yes,Next Day Air,Yes,48,Debit Card,Annually
+CUST0721,37,Male,Coat,Outerwear,2335,Lucknow,10,Grey,Summer,Excellent,4.3,No,Standard,No,42,Credit Card,Quarterly
+CUST0722,69,Other,T-shirt,Clothing,1637,Mumbai,XXL,White,Summer,Very Good,2.3,No,Store Pickup,No,44,PayPal,Weekly
+CUST0723,25,Other,Coat,Clothing,11744,Hyderabad,10,Blue,Fall,Good,2.7,Yes,Express,No,46,Credit Card,Quarterly
+CUST0724,57,Other,Sandals,Clothing,1350,Mumbai,L,Grey,Winter,Very Good,2.3,Yes,Free Shipping,No,1,Bank Transfer,Quarterly
+CUST0725,43,Male,Sweater,Outerwear,6878,Ahmedabad,L,Red,Summer,Very Good,4,Yes,Next Day Air,Yes,40,Credit Card,Fortnightly
+CUST0726,27,Other,Skirt,Footwear,3047,Jaipur,10,Red,Fall,Poor,2.9,Yes,Store Pickup,No,23,UPI,Monthly
+CUST0727,43,Female,Shorts,Clothing,7851,Pune,8,Blue,Winter,Average,3.4,No,Free Shipping,No,2,UPI,Annually
+CUST0728,46,Male,Shirt,Footwear,7916,Ahmedabad,XXL,Black,Spring,Average,3.5,Yes,Express,No,32,Credit Card,Fortnightly
+CUST0729,59,Male,Shirt,Outerwear,7778,Bangalore,XXL,Green,Fall,Excellent,4.7,No,Next Day Air,No,38,UPI,Fortnightly
+CUST0730,54,Other,Dress,Outerwear,2370,Kolkata,11,Grey,Summer,Very Good,3.9,No,Free Shipping,Yes,1,UPI,Fortnightly
+CUST0731,32,Male,Skirt,Clothing,8432,Ahmedabad,7,Red,Spring,Excellent,4.7,Yes,Next Day Air,No,4,Credit Card,Annually
+CUST0732,34,Male,Blouse,Clothing,7484,Kolkata,11,Black,Spring,Average,2.3,No,Next Day Air,Yes,40,Bank Transfer,Annually
+CUST0733,30,Male,Sneakers,Accessories,7418,Chennai,XL,Red,Spring,Poor,4.4,Yes,Free Shipping,Yes,40,UPI,Weekly
+CUST0734,31,Male,Hoodie,Footwear,14885,Mumbai,7,Pink,Winter,Average,2.6,No,Standard,Yes,36,Cash on Delivery,Annually
+CUST0735,40,Female,Coat,Footwear,13383,Delhi,9,Pink,Fall,Excellent,3.7,Yes,Store Pickup,No,6,Credit Card,Quarterly
+CUST0736,32,Male,Coat,Outerwear,619,Hyderabad,XXL,Green,Fall,Average,2.2,Yes,Express,Yes,34,Bank Transfer,Fortnightly
+CUST0737,51,Other,Dress,Outerwear,6790,Lucknow,S,Brown,Winter,Very Good,3.4,No,Free Shipping,Yes,21,Cash on Delivery,Monthly
+CUST0738,30,Female,Hoodie,Clothing,2532,Hyderabad,10,Yellow,Winter,Good,3.5,Yes,Express,Yes,26,Bank Transfer,Annually
+CUST0739,23,Other,T-shirt,Footwear,4682,Mumbai,M,Black,Fall,Very Good,2.7,No,Next Day Air,No,19,Debit Card,Weekly
+CUST0740,21,Male,Hoodie,Footwear,9002,Lucknow,8,Black,Fall,Excellent,3.2,No,Standard,No,44,Cash on Delivery,Annually
+CUST0741,26,Male,T-shirt,Clothing,14948,Lucknow,7,Yellow,Spring,Average,3.3,Yes,Standard,Yes,5,Bank Transfer,Weekly
+CUST0742,32,Female,Shorts,Clothing,13386,Mumbai,XL,Black,Winter,Excellent,2.4,Yes,Express,Yes,20,PayPal,Annually
+CUST0743,59,Male,Sneakers,Footwear,10180,Pune,9,White,Winter,Excellent,2.8,Yes,Next Day Air,No,14,Cash on Delivery,Monthly
+CUST0744,41,Other,Sneakers,Footwear,8881,Chennai,7,Brown,Winter,Excellent,3,No,Store Pickup,No,17,Credit Card,Fortnightly
+CUST0745,26,Other,Sandals,Outerwear,12405,Jaipur,XL,White,Summer,Good,2.1,Yes,Next Day Air,No,7,Credit Card,Quarterly
+CUST0746,20,Female,Sneakers,Accessories,5171,Delhi,S,Green,Fall,Poor,2.1,No,Next Day Air,No,2,Debit Card,Fortnightly
+CUST0747,42,Male,Skirt,Accessories,8974,Mumbai,XXL,Black,Summer,Excellent,4.7,No,Express,Yes,48,Credit Card,Monthly
+CUST0748,64,Other,Jacket,Accessories,13072,Mumbai,M,Brown,Fall,Average,4.6,No,Next Day Air,No,10,Cash on Delivery,Quarterly
+CUST0749,65,Male,Jeans,Clothing,4848,Chennai,M,Red,Summer,Average,3.7,Yes,Store Pickup,No,23,PayPal,Monthly
+CUST0750,68,Other,Hoodie,Clothing,2286,Chennai,11,Yellow,Summer,Good,3.3,Yes,Next Day Air,Yes,29,Credit Card,Monthly
+CUST0751,48,Other,Dress,Footwear,6944,Mumbai,11,White,Summer,Very Good,3.7,Yes,Next Day Air,Yes,16,PayPal,Monthly
+CUST0752,49,Male,Sandals,Footwear,2656,Lucknow,S,Red,Winter,Excellent,2.6,No,Store Pickup,No,2,Bank Transfer,Fortnightly
+CUST0753,21,Other,Sneakers,Outerwear,514,Kolkata,10,Black,Spring,Average,2.3,No,Free Shipping,Yes,15,Debit Card,Monthly
+CUST0754,54,Female,Skirt,Accessories,1419,Pune,XXL,Blue,Winter,Average,3.8,No,Express,No,41,PayPal,Quarterly
+CUST0755,36,Other,Blouse,Footwear,6284,Mumbai,XXL,Blue,Winter,Excellent,3.8,No,Store Pickup,No,13,Cash on Delivery,Annually
+CUST0756,20,Other,Shorts,Footwear,6493,Delhi,M,Red,Fall,Very Good,4.2,Yes,Store Pickup,No,42,Bank Transfer,Annually
+CUST0757,46,Female,Sneakers,Footwear,13947,Lucknow,XXL,Red,Summer,Good,4.4,No,Standard,No,20,UPI,Weekly
+CUST0758,62,Male,T-shirt,Accessories,6179,Delhi,7,Brown,Winter,Average,4,Yes,Next Day Air,No,14,Bank Transfer,Fortnightly
+CUST0759,52,Male,Hoodie,Accessories,11294,Lucknow,L,Grey,Summer,Average,3,Yes,Free Shipping,No,26,Bank Transfer,Fortnightly
+CUST0760,54,Female,Skirt,Footwear,14993,Bangalore,9,Black,Spring,Excellent,3.3,No,Free Shipping,Yes,2,Cash on Delivery,Weekly
+CUST0761,62,Male,Sweater,Footwear,8686,Jaipur,8,Pink,Summer,Good,3.2,Yes,Express,Yes,21,PayPal,Annually
+CUST0762,56,Other,Sweater,Clothing,1458,Kolkata,9,Pink,Fall,Poor,2.9,No,Standard,Yes,46,Bank Transfer,Annually
+CUST0763,23,Male,Blouse,Outerwear,11291,Ahmedabad,8,Yellow,Fall,Good,3.5,No,Free Shipping,Yes,19,Cash on Delivery,Monthly
+CUST0764,21,Other,Dress,Accessories,4923,Kolkata,8,Yellow,Spring,Good,2.1,Yes,Next Day Air,No,36,Bank Transfer,Monthly
+CUST0765,24,Female,Sneakers,Footwear,2192,Chennai,XXL,Purple,Fall,Good,4.7,No,Express,Yes,14,UPI,Monthly
+CUST0766,27,Male,Sandals,Footwear,698,Lucknow,S,Brown,Spring,Excellent,3.5,Yes,Express,Yes,18,Bank Transfer,Quarterly
+CUST0767,64,Female,Dress,Footwear,13865,Ahmedabad,XXL,White,Winter,Poor,4.7,No,Express,Yes,8,PayPal,Weekly
+CUST0768,40,Male,Shorts,Footwear,12167,Delhi,7,Blue,Summer,Average,3.4,Yes,Express,Yes,27,Credit Card,Annually
+CUST0769,38,Male,Dress,Clothing,10645,Mumbai,XL,Blue,Fall,Good,4,No,Next Day Air,Yes,31,Debit Card,Quarterly
+CUST0770,36,Male,Sandals,Clothing,8709,Hyderabad,S,Pink,Winter,Poor,3.7,Yes,Standard,Yes,26,UPI,Monthly
+CUST0771,57,Female,Skirt,Footwear,10698,Kolkata,9,Brown,Spring,Average,4.5,No,Next Day Air,No,50,UPI,Quarterly
+CUST0772,56,Female,Dress,Accessories,5090,Delhi,XL,White,Summer,Poor,4.9,No,Standard,No,7,Debit Card,Quarterly
+CUST0773,38,Other,Sweater,Outerwear,11669,Pune,L,Purple,Fall,Very Good,3.2,Yes,Free Shipping,No,17,Bank Transfer,Fortnightly
+CUST0774,68,Female,Blouse,Outerwear,4536,Kolkata,8,Pink,Fall,Poor,3.2,Yes,Express,No,46,Debit Card,Monthly
+CUST0775,58,Male,Sneakers,Accessories,6964,Hyderabad,11,Blue,Spring,Excellent,4.8,No,Standard,Yes,46,Credit Card,Quarterly
+CUST0776,23,Other,Shirt,Outerwear,12813,Jaipur,M,Black,Spring,Average,3.6,Yes,Store Pickup,No,45,Debit Card,Monthly
+CUST0777,69,Male,Shirt,Outerwear,7023,Hyderabad,10,Red,Winter,Excellent,4.5,Yes,Store Pickup,No,50,Cash on Delivery,Weekly
+CUST0778,28,Female,Sneakers,Clothing,4018,Hyderabad,S,Green,Winter,Poor,4,Yes,Express,Yes,4,Credit Card,Annually
+CUST0779,64,Other,Hoodie,Accessories,580,Mumbai,10,Grey,Spring,Excellent,4.2,No,Standard,No,50,PayPal,Quarterly
+CUST0780,50,Other,Blouse,Outerwear,4740,Ahmedabad,XL,White,Summer,Very Good,3.4,No,Next Day Air,Yes,14,Cash on Delivery,Annually
+CUST0781,35,Female,Sneakers,Footwear,6515,Mumbai,9,Pink,Summer,Very Good,4.1,No,Standard,Yes,25,Debit Card,Quarterly
+CUST0782,41,Female,Coat,Clothing,10781,Chennai,7,Blue,Winter,Excellent,3.7,Yes,Next Day Air,Yes,5,Debit Card,Quarterly
+CUST0783,57,Female,Dress,Footwear,1215,Ahmedabad,XXL,Pink,Summer,Average,4.5,Yes,Express,No,0,PayPal,Fortnightly
+CUST0784,66,Other,Hoodie,Accessories,9188,Ahmedabad,7,Red,Summer,Poor,4.1,Yes,Free Shipping,No,44,Credit Card,Quarterly
+CUST0785,26,Male,Jeans,Clothing,2972,Hyderabad,9,White,Winter,Poor,3.5,No,Standard,No,25,Credit Card,Monthly
+CUST0786,25,Female,Sneakers,Outerwear,8810,Kolkata,11,Yellow,Spring,Good,2.9,Yes,Store Pickup,No,33,Bank Transfer,Monthly
+CUST0787,48,Female,Sandals,Outerwear,12484,Bangalore,L,Brown,Fall,Excellent,3,Yes,Standard,No,4,Credit Card,Monthly
+CUST0788,62,Male,Sandals,Clothing,9060,Ahmedabad,7,White,Winter,Very Good,3.4,Yes,Free Shipping,No,40,Bank Transfer,Fortnightly
+CUST0789,40,Other,Blouse,Footwear,4748,Chennai,8,Grey,Summer,Average,3.9,No,Express,Yes,4,Bank Transfer,Fortnightly
+CUST0790,24,Other,Sandals,Outerwear,3171,Chennai,11,White,Spring,Very Good,3.8,No,Express,No,47,Bank Transfer,Quarterly
+CUST0791,31,Male,Blouse,Footwear,3796,Delhi,11,Blue,Spring,Good,3.4,Yes,Express,Yes,3,Debit Card,Annually
+CUST0792,69,Female,Jacket,Accessories,5609,Chennai,10,White,Spring,Very Good,3.2,No,Next Day Air,No,19,Bank Transfer,Monthly
+CUST0793,51,Male,Coat,Footwear,2971,Chennai,L,Pink,Fall,Poor,4.1,No,Free Shipping,No,41,PayPal,Fortnightly
+CUST0794,19,Female,T-shirt,Outerwear,12185,Pune,XL,Grey,Spring,Poor,3.1,Yes,Standard,No,23,Bank Transfer,Fortnightly
+CUST0795,18,Other,Sneakers,Outerwear,1791,Kolkata,XXL,Brown,Winter,Very Good,2.8,No,Next Day Air,No,2,UPI,Monthly
+CUST0796,35,Other,Blouse,Clothing,14392,Ahmedabad,11,Purple,Fall,Good,3.4,Yes,Free Shipping,No,1,Bank Transfer,Fortnightly
+CUST0797,63,Other,Jeans,Footwear,1606,Pune,M,Black,Fall,Excellent,2.9,No,Standard,Yes,21,UPI,Monthly
+CUST0798,63,Male,Coat,Outerwear,8709,Mumbai,8,Pink,Winter,Excellent,2.6,Yes,Express,Yes,11,Cash on Delivery,Weekly
+CUST0799,35,Other,Sandals,Accessories,3083,Mumbai,XXL,Green,Summer,Excellent,3,Yes,Store Pickup,No,5,Credit Card,Weekly
+CUST0800,29,Other,Sweater,Footwear,5451,Lucknow,S,Blue,Winter,Good,3.9,No,Free Shipping,Yes,19,UPI,Fortnightly
+CUST0801,65,Other,Jeans,Outerwear,1123,Pune,XXL,Blue,Summer,Good,3.7,No,Standard,Yes,17,Debit Card,Fortnightly
+CUST0802,36,Female,Shorts,Accessories,4584,Delhi,9,Yellow,Summer,Average,4.3,No,Standard,Yes,37,Cash on Delivery,Fortnightly
+CUST0803,52,Other,Sandals,Accessories,5933,Chennai,XL,Yellow,Summer,Excellent,3.5,Yes,Express,Yes,29,PayPal,Weekly
+CUST0804,25,Other,Skirt,Footwear,8035,Bangalore,9,Grey,Summer,Average,3.7,Yes,Express,Yes,40,PayPal,Weekly
+CUST0805,28,Female,T-shirt,Outerwear,5766,Delhi,L,Yellow,Summer,Good,3.4,Yes,Free Shipping,No,39,Cash on Delivery,Annually
+CUST0806,54,Other,Jacket,Accessories,8009,Hyderabad,XXL,Yellow,Summer,Poor,4,No,Free Shipping,Yes,48,Bank Transfer,Weekly
+CUST0807,44,Female,Hoodie,Outerwear,9711,Pune,11,Black,Spring,Very Good,2.5,No,Store Pickup,Yes,36,Debit Card,Fortnightly
+CUST0808,60,Female,Hoodie,Clothing,1731,Chennai,L,Yellow,Fall,Poor,2.5,Yes,Standard,Yes,11,PayPal,Monthly
+CUST0809,23,Male,Sandals,Footwear,7402,Delhi,XL,Blue,Summer,Excellent,3.4,No,Free Shipping,No,35,UPI,Quarterly
+CUST0810,62,Male,T-shirt,Accessories,13870,Ahmedabad,XL,White,Fall,Good,3,Yes,Next Day Air,No,18,UPI,Quarterly
+CUST0811,56,Female,Dress,Clothing,5933,Ahmedabad,11,Black,Spring,Very Good,2.5,Yes,Express,No,21,Bank Transfer,Weekly
+CUST0812,57,Other,Hoodie,Accessories,1515,Hyderabad,L,Purple,Spring,Excellent,2.6,No,Free Shipping,No,24,UPI,Fortnightly
+CUST0813,45,Male,Sneakers,Outerwear,6587,Ahmedabad,S,Green,Fall,Good,2.5,Yes,Next Day Air,Yes,22,UPI,Weekly
+CUST0814,59,Female,Hoodie,Clothing,2885,Kolkata,L,Grey,Fall,Poor,2,No,Next Day Air,Yes,19,Cash on Delivery,Monthly
+CUST0815,65,Other,Sweater,Accessories,8475,Kolkata,9,Yellow,Summer,Excellent,4.4,No,Store Pickup,No,43,Credit Card,Fortnightly
+CUST0816,18,Female,Shorts,Outerwear,3487,Jaipur,11,Purple,Fall,Excellent,3.4,Yes,Free Shipping,No,29,PayPal,Weekly
+CUST0817,56,Other,Shirt,Outerwear,7224,Kolkata,XXL,Black,Summer,Good,2.9,No,Free Shipping,No,20,PayPal,Weekly
+CUST0818,56,Male,Shirt,Clothing,8954,Pune,XL,Blue,Winter,Very Good,2.3,Yes,Next Day Air,No,17,PayPal,Quarterly
+CUST0819,62,Other,Sandals,Accessories,915,Delhi,7,Yellow,Winter,Good,3.8,Yes,Next Day Air,Yes,21,UPI,Monthly
+CUST0820,45,Female,Blouse,Footwear,12485,Chennai,M,Pink,Winter,Good,3.7,No,Store Pickup,Yes,44,Credit Card,Monthly
+CUST0821,54,Female,Sandals,Accessories,4752,Bangalore,XXL,Brown,Winter,Very Good,3.2,Yes,Express,No,0,Cash on Delivery,Fortnightly
+CUST0822,19,Female,Skirt,Footwear,4751,Chennai,9,Grey,Summer,Excellent,2.7,Yes,Express,Yes,4,Bank Transfer,Monthly
+CUST0823,64,Other,Coat,Accessories,9882,Pune,11,Yellow,Fall,Poor,4.8,Yes,Express,No,20,PayPal,Quarterly
+CUST0824,27,Female,Shorts,Accessories,3701,Jaipur,L,Pink,Summer,Poor,2.1,Yes,Next Day Air,No,5,Debit Card,Annually
+CUST0825,41,Female,Sneakers,Outerwear,7647,Ahmedabad,S,Blue,Spring,Very Good,3.1,No,Next Day Air,Yes,48,PayPal,Annually
+CUST0826,65,Female,Sandals,Accessories,9057,Bangalore,8,Grey,Winter,Excellent,3.2,Yes,Free Shipping,No,11,Debit Card,Quarterly
+CUST0827,53,Female,Shirt,Footwear,7101,Lucknow,XXL,Yellow,Summer,Excellent,4,No,Store Pickup,No,14,Cash on Delivery,Quarterly
+CUST0828,66,Female,Sneakers,Accessories,2821,Bangalore,8,Green,Winter,Very Good,4.5,No,Standard,Yes,24,Bank Transfer,Quarterly
+CUST0829,44,Female,Sandals,Clothing,10389,Hyderabad,L,Grey,Winter,Very Good,3.7,No,Free Shipping,No,39,Debit Card,Fortnightly
+CUST0830,54,Other,T-shirt,Clothing,6316,Mumbai,11,Pink,Spring,Good,3.4,Yes,Standard,No,45,Debit Card,Monthly
+CUST0831,26,Female,Sweater,Clothing,3641,Lucknow,9,Purple,Spring,Very Good,3.3,Yes,Standard,No,32,UPI,Weekly
+CUST0832,69,Other,Shirt,Footwear,4261,Ahmedabad,M,Black,Winter,Poor,4.6,No,Next Day Air,Yes,50,Cash on Delivery,Monthly
+CUST0833,63,Other,Sweater,Clothing,7434,Ahmedabad,S,Green,Fall,Excellent,3.1,No,Next Day Air,Yes,6,Debit Card,Monthly
+CUST0834,66,Other,Hoodie,Clothing,12079,Bangalore,7,Pink,Summer,Good,4.7,No,Standard,No,6,PayPal,Weekly
+CUST0835,47,Other,T-shirt,Footwear,12652,Chennai,7,Green,Fall,Average,4.4,No,Store Pickup,No,38,Credit Card,Fortnightly
+CUST0836,27,Other,Sneakers,Clothing,3871,Kolkata,11,Yellow,Summer,Average,4.8,Yes,Store Pickup,No,30,UPI,Quarterly
+CUST0837,61,Female,Jeans,Footwear,2650,Lucknow,XXL,Pink,Summer,Good,2.1,Yes,Store Pickup,No,9,Bank Transfer,Weekly
+CUST0838,34,Female,Shorts,Accessories,8064,Lucknow,L,Yellow,Spring,Very Good,4.6,No,Store Pickup,No,24,Cash on Delivery,Fortnightly
+CUST0839,51,Female,Jeans,Accessories,14948,Pune,S,White,Summer,Good,2.9,Yes,Standard,No,38,UPI,Weekly
+CUST0840,59,Male,Shirt,Accessories,7775,Lucknow,S,Brown,Spring,Good,3.1,Yes,Next Day Air,Yes,21,Bank Transfer,Weekly
+CUST0841,35,Other,Dress,Clothing,13323,Mumbai,9,Grey,Spring,Good,2.8,Yes,Standard,Yes,44,UPI,Quarterly
+CUST0842,29,Male,Coat,Outerwear,9293,Chennai,M,Red,Winter,Good,3.6,Yes,Standard,Yes,15,Bank Transfer,Annually
+CUST0843,48,Female,Sweater,Clothing,5474,Delhi,XL,Purple,Winter,Poor,2.3,Yes,Free Shipping,Yes,38,Cash on Delivery,Monthly
+CUST0844,54,Male,Coat,Accessories,14358,Delhi,9,Red,Fall,Excellent,2.8,No,Store Pickup,No,31,UPI,Fortnightly
+CUST0845,39,Other,T-shirt,Outerwear,10822,Chennai,XXL,Brown,Spring,Average,2.8,No,Next Day Air,Yes,48,Debit Card,Quarterly
+CUST0846,18,Female,Dress,Accessories,8372,Bangalore,L,White,Fall,Average,2.3,No,Express,Yes,12,Credit Card,Fortnightly
+CUST0847,31,Female,Dress,Outerwear,5493,Jaipur,9,White,Summer,Very Good,2.6,Yes,Express,Yes,12,Cash on Delivery,Fortnightly
+CUST0848,28,Other,Skirt,Footwear,5585,Jaipur,9,Grey,Fall,Average,2.7,No,Next Day Air,No,23,Debit Card,Monthly
+CUST0849,39,Other,Shirt,Outerwear,7618,Chennai,8,Grey,Fall,Poor,2,No,Free Shipping,No,22,UPI,Fortnightly
+CUST0850,47,Female,Blouse,Footwear,3667,Chennai,XXL,Yellow,Winter,Average,3.3,No,Express,Yes,13,Bank Transfer,Annually
+CUST0851,46,Female,Sweater,Clothing,4233,Bangalore,7,Purple,Fall,Excellent,4.3,No,Next Day Air,Yes,17,Bank Transfer,Annually
+CUST0852,42,Male,Sweater,Clothing,10729,Kolkata,XXL,Brown,Summer,Poor,4.8,Yes,Next Day Air,Yes,47,Credit Card,Monthly
+CUST0853,67,Other,Jacket,Footwear,14568,Bangalore,11,Green,Spring,Very Good,2.3,Yes,Express,No,35,Bank Transfer,Monthly
+CUST0854,62,Male,Jeans,Clothing,14515,Kolkata,7,Purple,Spring,Good,3,Yes,Next Day Air,No,21,Debit Card,Monthly
+CUST0855,34,Other,Shorts,Clothing,2548,Delhi,8,Pink,Fall,Poor,4.4,Yes,Store Pickup,No,1,Bank Transfer,Quarterly
+CUST0856,20,Other,Hoodie,Outerwear,13195,Jaipur,9,Green,Summer,Excellent,4.2,Yes,Store Pickup,Yes,34,Debit Card,Annually
+CUST0857,23,Other,T-shirt,Footwear,12569,Delhi,8,Green,Fall,Poor,4.7,Yes,Express,Yes,11,UPI,Annually
+CUST0858,39,Female,Dress,Accessories,14821,Mumbai,8,Grey,Summer,Excellent,3.9,No,Free Shipping,Yes,14,PayPal,Quarterly
+CUST0859,27,Female,Sandals,Outerwear,8972,Ahmedabad,XL,Grey,Summer,Very Good,2.5,Yes,Standard,No,11,Credit Card,Weekly
+CUST0860,52,Other,Blouse,Footwear,9098,Kolkata,M,Yellow,Summer,Good,4,Yes,Express,Yes,27,PayPal,Fortnightly
+CUST0861,31,Female,Blouse,Footwear,14629,Ahmedabad,M,Pink,Winter,Poor,4.6,Yes,Next Day Air,Yes,28,Cash on Delivery,Quarterly
+CUST0862,30,Male,Hoodie,Accessories,9920,Delhi,M,Blue,Winter,Good,4.3,Yes,Next Day Air,No,47,PayPal,Quarterly
+CUST0863,30,Male,Sweater,Outerwear,8081,Chennai,10,White,Fall,Excellent,2,No,Next Day Air,Yes,22,PayPal,Monthly
+CUST0864,22,Female,Skirt,Outerwear,4007,Delhi,8,Purple,Winter,Average,4.2,No,Free Shipping,Yes,15,Debit Card,Annually
+CUST0865,18,Male,Dress,Footwear,2547,Ahmedabad,S,Black,Spring,Average,3.1,No,Standard,No,11,Debit Card,Annually
+CUST0866,27,Other,Hoodie,Footwear,6231,Delhi,L,Black,Fall,Good,2.9,No,Express,No,1,Credit Card,Monthly
+CUST0867,19,Female,Blouse,Footwear,6929,Mumbai,10,Pink,Spring,Good,2.3,No,Standard,Yes,26,Credit Card,Weekly
+CUST0868,48,Female,Jacket,Accessories,2452,Lucknow,S,Green,Fall,Poor,4.7,No,Standard,No,42,Bank Transfer,Monthly
+CUST0869,57,Other,Shorts,Clothing,8078,Ahmedabad,11,Red,Spring,Good,3.5,Yes,Standard,Yes,47,Credit Card,Quarterly
+CUST0870,36,Other,Sweater,Footwear,3956,Chennai,L,Green,Summer,Poor,4,No,Standard,No,27,PayPal,Fortnightly
+CUST0871,55,Other,Blouse,Accessories,10602,Mumbai,XL,Blue,Winter,Good,3.9,Yes,Standard,No,20,Credit Card,Annually
+CUST0872,48,Female,Shirt,Footwear,10550,Lucknow,8,Purple,Spring,Poor,3.9,No,Free Shipping,No,41,Bank Transfer,Monthly
+CUST0873,39,Male,Sneakers,Outerwear,13471,Ahmedabad,10,Purple,Winter,Average,4.3,No,Free Shipping,No,27,UPI,Weekly
+CUST0874,52,Male,Sweater,Footwear,7744,Delhi,M,Brown,Summer,Good,4.6,No,Next Day Air,No,35,Credit Card,Annually
+CUST0875,29,Female,Dress,Footwear,2571,Hyderabad,S,Red,Summer,Very Good,3.8,Yes,Store Pickup,Yes,34,PayPal,Annually
+CUST0876,32,Other,Dress,Footwear,6385,Bangalore,M,Blue,Spring,Good,3.6,No,Standard,No,3,Cash on Delivery,Monthly
+CUST0877,42,Other,Jacket,Accessories,7917,Kolkata,L,Green,Winter,Excellent,2.8,No,Standard,Yes,3,Cash on Delivery,Fortnightly
+CUST0878,27,Female,Jeans,Footwear,6660,Bangalore,8,Pink,Spring,Good,4.5,Yes,Standard,No,8,Cash on Delivery,Weekly
+CUST0879,64,Other,Coat,Footwear,3622,Ahmedabad,L,Green,Summer,Excellent,3.9,No,Store Pickup,Yes,49,UPI,Annually
+CUST0880,48,Male,Skirt,Accessories,5145,Delhi,10,Grey,Fall,Good,2.2,No,Express,Yes,24,PayPal,Weekly
+CUST0881,58,Female,Jacket,Footwear,14606,Ahmedabad,XXL,Red,Winter,Excellent,5,No,Standard,No,44,Cash on Delivery,Quarterly
+CUST0882,21,Other,Sweater,Outerwear,14050,Chennai,XXL,Brown,Summer,Poor,4,No,Express,Yes,0,Credit Card,Quarterly
+CUST0883,33,Other,T-shirt,Footwear,9934,Pune,XXL,White,Fall,Very Good,3.8,No,Store Pickup,No,2,Bank Transfer,Weekly
+CUST0884,55,Other,Sweater,Clothing,2174,Hyderabad,7,Grey,Fall,Poor,4.2,Yes,Express,No,29,Bank Transfer,Annually
+CUST0885,20,Female,Hoodie,Accessories,11212,Mumbai,XL,Grey,Spring,Excellent,3.9,No,Free Shipping,No,26,Credit Card,Quarterly
+CUST0886,34,Female,Skirt,Outerwear,6023,Hyderabad,XXL,Purple,Winter,Average,3.4,No,Standard,Yes,35,Bank Transfer,Monthly
+CUST0887,65,Female,Hoodie,Outerwear,13045,Bangalore,9,White,Summer,Average,3.8,Yes,Express,No,6,UPI,Weekly
+CUST0888,58,Female,Shirt,Accessories,10727,Bangalore,8,Red,Summer,Poor,3.1,No,Express,Yes,10,PayPal,Weekly
+CUST0889,25,Male,Coat,Outerwear,8542,Jaipur,XXL,Brown,Spring,Poor,3.9,Yes,Standard,Yes,5,UPI,Annually
+CUST0890,60,Female,Sneakers,Footwear,11979,Kolkata,10,Yellow,Fall,Good,4.8,Yes,Express,Yes,20,Debit Card,Quarterly
+CUST0891,70,Male,Sandals,Footwear,11186,Chennai,S,Purple,Spring,Good,2.7,Yes,Next Day Air,Yes,9,Credit Card,Monthly
+CUST0892,33,Male,Coat,Accessories,13978,Ahmedabad,8,Brown,Spring,Poor,2.6,No,Store Pickup,No,47,PayPal,Monthly
+CUST0893,69,Female,Jacket,Outerwear,6222,Hyderabad,7,Brown,Summer,Excellent,4.9,Yes,Express,Yes,50,Bank Transfer,Annually
+CUST0894,26,Male,Hoodie,Accessories,9021,Kolkata,M,Grey,Spring,Average,4.2,Yes,Next Day Air,No,36,Credit Card,Quarterly
+CUST0895,57,Female,T-shirt,Accessories,1309,Bangalore,S,Brown,Fall,Very Good,4,No,Next Day Air,Yes,4,UPI,Monthly
+CUST0896,22,Other,Sneakers,Outerwear,14938,Mumbai,11,Purple,Fall,Good,5,Yes,Next Day Air,No,34,UPI,Monthly
+CUST0897,39,Male,Coat,Accessories,2613,Jaipur,11,Yellow,Winter,Very Good,2.2,No,Store Pickup,Yes,49,Credit Card,Annually
+CUST0898,22,Other,Jacket,Footwear,12252,Hyderabad,XL,Grey,Spring,Good,2.1,No,Free Shipping,No,5,Credit Card,Quarterly
+CUST0899,54,Other,Skirt,Accessories,13437,Pune,8,Purple,Spring,Average,2.5,No,Express,Yes,45,Cash on Delivery,Monthly
+CUST0900,49,Male,Jeans,Outerwear,6826,Hyderabad,XL,Yellow,Winter,Average,3.4,Yes,Store Pickup,No,1,Bank Transfer,Weekly
+CUST0901,53,Male,Skirt,Outerwear,1814,Bangalore,S,Brown,Winter,Excellent,3,No,Free Shipping,No,4,Debit Card,Fortnightly
+CUST0902,58,Other,T-shirt,Footwear,9018,Hyderabad,7,White,Spring,Very Good,3.1,Yes,Next Day Air,Yes,32,Debit Card,Quarterly
+CUST0903,19,Other,Blouse,Clothing,13475,Chennai,XXL,White,Summer,Good,3.8,Yes,Free Shipping,No,12,Bank Transfer,Fortnightly
+CUST0904,57,Female,T-shirt,Accessories,13096,Ahmedabad,M,Brown,Winter,Average,2.7,Yes,Standard,No,12,Cash on Delivery,Weekly
+CUST0905,40,Male,T-shirt,Clothing,14139,Jaipur,M,Yellow,Fall,Very Good,3.9,No,Express,Yes,28,Debit Card,Monthly
+CUST0906,58,Female,Jacket,Accessories,6427,Delhi,9,Black,Fall,Excellent,3,No,Store Pickup,No,19,Cash on Delivery,Monthly
+CUST0907,67,Other,Shorts,Clothing,8893,Mumbai,XL,White,Summer,Very Good,4.2,Yes,Express,Yes,34,Credit Card,Weekly
+CUST0908,37,Female,Sandals,Outerwear,9060,Mumbai,8,Brown,Spring,Very Good,3.1,Yes,Standard,Yes,29,Debit Card,Fortnightly
+CUST0909,63,Female,Sweater,Footwear,8364,Hyderabad,11,Grey,Winter,Excellent,4.8,Yes,Free Shipping,No,0,Debit Card,Monthly
+CUST0910,29,Female,Sandals,Outerwear,13976,Pune,S,Blue,Spring,Very Good,2.7,No,Next Day Air,No,13,UPI,Monthly
+CUST0911,44,Other,Blouse,Accessories,13743,Pune,8,Green,Spring,Poor,2.8,Yes,Next Day Air,Yes,44,Cash on Delivery,Fortnightly
+CUST0912,60,Other,Sandals,Clothing,10696,Delhi,M,Blue,Fall,Excellent,2.6,No,Standard,No,43,UPI,Quarterly
+CUST0913,36,Other,Sneakers,Outerwear,14266,Lucknow,XXL,White,Winter,Poor,4.5,Yes,Free Shipping,No,12,Debit Card,Annually
+CUST0914,20,Female,T-shirt,Clothing,2075,Hyderabad,S,Pink,Spring,Excellent,4.3,Yes,Standard,No,39,PayPal,Quarterly
+CUST0915,65,Male,T-shirt,Clothing,11110,Jaipur,XL,Red,Summer,Excellent,3.7,Yes,Express,No,11,PayPal,Quarterly
+CUST0916,30,Other,Blouse,Accessories,6476,Bangalore,XXL,Brown,Winter,Good,2.6,Yes,Express,No,1,Cash on Delivery,Weekly
+CUST0917,33,Other,Dress,Outerwear,9373,Bangalore,L,Brown,Summer,Excellent,2.3,Yes,Next Day Air,Yes,39,UPI,Fortnightly
+CUST0918,64,Female,Shirt,Clothing,2600,Delhi,XL,Black,Fall,Excellent,3.7,No,Store Pickup,Yes,14,UPI,Weekly
+CUST0919,54,Other,Sweater,Clothing,10880,Ahmedabad,11,Pink,Summer,Very Good,3.2,Yes,Next Day Air,No,22,UPI,Quarterly
+CUST0920,48,Male,T-shirt,Outerwear,3917,Bangalore,XXL,Blue,Fall,Average,4.6,No,Free Shipping,No,19,Debit Card,Weekly
+CUST0921,47,Female,Shorts,Footwear,6840,Bangalore,7,Red,Fall,Poor,4.7,No,Next Day Air,No,24,Cash on Delivery,Monthly
+CUST0922,39,Female,Skirt,Accessories,2430,Jaipur,XL,Red,Spring,Good,3.7,No,Next Day Air,No,23,UPI,Monthly
+CUST0923,31,Female,Jeans,Accessories,2030,Jaipur,9,Green,Fall,Excellent,2.6,No,Store Pickup,Yes,42,Cash on Delivery,Annually
+CUST0924,45,Male,T-shirt,Clothing,11619,Hyderabad,8,Grey,Spring,Average,5,Yes,Next Day Air,Yes,9,Cash on Delivery,Monthly
+CUST0925,47,Male,Shorts,Footwear,12744,Ahmedabad,7,Grey,Winter,Excellent,4.4,Yes,Free Shipping,Yes,3,PayPal,Weekly
+CUST0926,38,Female,Sandals,Footwear,3739,Chennai,M,Yellow,Summer,Very Good,4.7,No,Next Day Air,No,45,Debit Card,Monthly
+CUST0927,37,Male,Hoodie,Footwear,14677,Bangalore,L,Pink,Winter,Very Good,4.7,No,Standard,No,44,PayPal,Fortnightly
+CUST0928,25,Other,Jeans,Accessories,1840,Mumbai,L,Pink,Fall,Poor,3.4,Yes,Store Pickup,No,28,Bank Transfer,Annually
+CUST0929,29,Female,Blouse,Accessories,11256,Lucknow,7,Yellow,Winter,Average,2.2,Yes,Store Pickup,No,43,Cash on Delivery,Fortnightly
+CUST0930,25,Other,Sandals,Outerwear,5039,Delhi,7,Grey,Fall,Excellent,3.9,No,Standard,No,16,Debit Card,Annually
+CUST0931,35,Other,Blouse,Accessories,5469,Bangalore,S,Red,Summer,Average,3.3,No,Express,Yes,17,UPI,Quarterly
+CUST0932,60,Male,Shirt,Clothing,2390,Lucknow,S,Grey,Winter,Average,3.1,No,Next Day Air,No,2,UPI,Monthly
+CUST0933,62,Female,Shirt,Outerwear,13408,Jaipur,8,Pink,Summer,Good,4.8,No,Store Pickup,Yes,31,PayPal,Monthly
+CUST0934,23,Female,Skirt,Clothing,13446,Kolkata,10,White,Winter,Good,4.4,Yes,Standard,Yes,11,PayPal,Weekly
+CUST0935,27,Other,Hoodie,Footwear,13011,Delhi,M,Black,Winter,Average,4.6,Yes,Standard,No,40,PayPal,Weekly
+CUST0936,57,Male,Blouse,Footwear,3518,Delhi,L,White,Winter,Excellent,3.3,Yes,Standard,Yes,45,Credit Card,Quarterly
+CUST0937,38,Other,Dress,Footwear,8049,Hyderabad,9,Grey,Spring,Poor,2.9,Yes,Next Day Air,Yes,32,Credit Card,Weekly
+CUST0938,29,Male,Sneakers,Footwear,14638,Jaipur,11,Red,Winter,Excellent,2.6,No,Standard,Yes,25,UPI,Annually
+CUST0939,36,Other,Jacket,Outerwear,3825,Pune,XXL,Yellow,Spring,Very Good,2,No,Express,Yes,4,Credit Card,Weekly
+CUST0940,49,Female,Shorts,Clothing,10405,Pune,M,Purple,Winter,Excellent,3,No,Store Pickup,Yes,36,PayPal,Monthly
+CUST0941,46,Female,Shorts,Accessories,6319,Ahmedabad,XXL,Purple,Summer,Very Good,5,Yes,Standard,Yes,2,UPI,Monthly
+CUST0942,44,Female,T-shirt,Outerwear,13295,Pune,9,Purple,Fall,Good,2.4,No,Next Day Air,Yes,8,PayPal,Quarterly
+CUST0943,58,Male,Jacket,Outerwear,478,Pune,L,Blue,Spring,Good,2.3,No,Next Day Air,Yes,17,PayPal,Fortnightly
+CUST0944,19,Female,Jacket,Footwear,5222,Jaipur,XXL,Red,Spring,Poor,3.8,No,Next Day Air,No,10,Cash on Delivery,Weekly
+CUST0945,40,Male,Sweater,Outerwear,11817,Ahmedabad,11,Green,Spring,Good,3.6,No,Standard,No,31,Credit Card,Monthly
+CUST0946,58,Male,Shirt,Outerwear,11457,Lucknow,8,Grey,Winter,Very Good,2.4,No,Express,No,44,Debit Card,Monthly
+CUST0947,54,Female,Sweater,Clothing,7574,Kolkata,8,Red,Spring,Average,4.1,No,Next Day Air,No,35,PayPal,Annually
+CUST0948,68,Female,Shorts,Footwear,2332,Kolkata,11,Red,Spring,Good,3.5,No,Free Shipping,No,32,Credit Card,Quarterly
+CUST0949,66,Male,Coat,Outerwear,1582,Jaipur,9,Purple,Summer,Excellent,3.3,Yes,Express,Yes,23,Credit Card,Quarterly
+CUST0950,33,Male,Skirt,Clothing,5611,Kolkata,11,Purple,Spring,Average,4.9,No,Express,Yes,41,Debit Card,Annually
+CUST0951,56,Male,Sneakers,Clothing,12300,Hyderabad,10,Brown,Summer,Good,4.4,No,Free Shipping,No,16,Debit Card,Fortnightly
+CUST0952,36,Male,Blouse,Accessories,1539,Kolkata,9,Blue,Fall,Poor,3.7,No,Express,Yes,17,Cash on Delivery,Monthly
+CUST0953,30,Other,Coat,Accessories,4915,Bangalore,11,Blue,Summer,Excellent,2.4,No,Store Pickup,No,23,Debit Card,Monthly
+CUST0954,64,Female,Dress,Clothing,10553,Pune,7,Pink,Spring,Average,3.8,Yes,Express,No,36,Bank Transfer,Weekly
+CUST0955,50,Male,Shorts,Footwear,8387,Delhi,M,Blue,Spring,Excellent,3.6,Yes,Free Shipping,No,22,PayPal,Weekly
+CUST0956,44,Female,Hoodie,Clothing,8318,Pune,10,Black,Fall,Poor,4.1,Yes,Standard,No,10,Credit Card,Monthly
+CUST0957,32,Male,Blouse,Clothing,1109,Hyderabad,9,Black,Winter,Good,4.3,Yes,Standard,No,20,Cash on Delivery,Quarterly
+CUST0958,19,Other,Hoodie,Outerwear,8314,Mumbai,8,Brown,Winter,Excellent,2.6,Yes,Standard,Yes,37,Cash on Delivery,Weekly
+CUST0959,40,Other,Sweater,Outerwear,8591,Bangalore,8,Red,Spring,Very Good,2,No,Express,No,32,Cash on Delivery,Fortnightly
+CUST0960,30,Other,Sneakers,Outerwear,3457,Kolkata,XXL,Pink,Winter,Average,3.4,No,Store Pickup,No,13,Debit Card,Weekly
+CUST0961,20,Female,Hoodie,Clothing,12420,Hyderabad,XL,Grey,Summer,Good,4.7,No,Express,No,3,UPI,Fortnightly
+CUST0962,54,Female,Sandals,Clothing,5327,Mumbai,XL,Blue,Summer,Good,3.5,No,Express,No,25,Bank Transfer,Fortnightly
+CUST0963,49,Female,Dress,Outerwear,13275,Hyderabad,M,Grey,Winter,Excellent,4.6,Yes,Free Shipping,No,0,PayPal,Quarterly
+CUST0964,42,Other,Coat,Footwear,1843,Mumbai,7,Red,Spring,Poor,4.2,No,Free Shipping,No,26,UPI,Weekly
+CUST0965,37,Male,Sweater,Outerwear,2573,Chennai,9,Red,Winter,Excellent,4.6,No,Standard,Yes,7,Credit Card,Fortnightly
+CUST0966,47,Other,Shorts,Outerwear,4674,Mumbai,11,Purple,Winter,Good,2.6,No,Next Day Air,Yes,2,Cash on Delivery,Quarterly
+CUST0967,47,Female,Jeans,Clothing,9699,Mumbai,M,Green,Summer,Poor,2.6,No,Free Shipping,No,12,Debit Card,Quarterly
+CUST0968,69,Male,Skirt,Clothing,14561,Lucknow,8,Brown,Fall,Good,4.1,Yes,Express,No,5,Bank Transfer,Monthly
+CUST0969,47,Female,Dress,Footwear,6365,Kolkata,10,Brown,Spring,Average,4.2,No,Next Day Air,Yes,37,Cash on Delivery,Monthly
+CUST0970,47,Female,Hoodie,Outerwear,2668,Ahmedabad,10,Pink,Summer,Poor,2.3,No,Standard,No,22,UPI,Quarterly
+CUST0971,46,Other,Skirt,Footwear,14827,Mumbai,7,Brown,Spring,Very Good,3,Yes,Store Pickup,Yes,50,Debit Card,Quarterly
+CUST0972,23,Female,Sweater,Clothing,8762,Delhi,11,Black,Summer,Very Good,4,Yes,Standard,No,31,Credit Card,Monthly
+CUST0973,64,Female,Dress,Accessories,8820,Pune,XL,Grey,Summer,Poor,4.1,Yes,Standard,No,9,UPI,Fortnightly
+CUST0974,63,Male,Hoodie,Clothing,8363,Bangalore,M,Green,Spring,Poor,2.9,Yes,Store Pickup,Yes,12,Credit Card,Weekly
+CUST0975,19,Female,Sweater,Footwear,3292,Delhi,M,Green,Fall,Excellent,3.3,No,Next Day Air,Yes,44,Bank Transfer,Monthly
+CUST0976,39,Female,Shirt,Footwear,5227,Pune,11,Grey,Fall,Very Good,3.8,No,Free Shipping,No,20,PayPal,Weekly
+CUST0977,34,Other,T-shirt,Accessories,12585,Jaipur,M,Pink,Summer,Poor,5,No,Free Shipping,No,48,Credit Card,Quarterly
+CUST0978,34,Other,Sweater,Clothing,4270,Delhi,9,Pink,Summer,Good,3.8,No,Free Shipping,No,19,Bank Transfer,Quarterly
+CUST0979,31,Other,Jacket,Clothing,418,Bangalore,11,Black,Fall,Excellent,3.5,No,Express,No,34,UPI,Weekly
+CUST0980,34,Other,Sweater,Accessories,3099,Ahmedabad,XXL,Blue,Winter,Average,3.8,No,Free Shipping,Yes,4,Debit Card,Quarterly
+CUST0981,49,Male,Blouse,Accessories,12959,Bangalore,8,Black,Summer,Good,2.7,No,Standard,No,44,Credit Card,Weekly
+CUST0982,28,Male,Jeans,Clothing,7427,Ahmedabad,7,Pink,Winter,Very Good,4.7,No,Store Pickup,Yes,26,Cash on Delivery,Weekly
+CUST0983,35,Female,Dress,Accessories,1346,Delhi,M,Green,Summer,Poor,3.2,Yes,Standard,Yes,1,Debit Card,Weekly
+CUST0984,54,Male,Skirt,Footwear,7558,Jaipur,7,Brown,Summer,Poor,2.2,Yes,Store Pickup,No,7,Bank Transfer,Weekly
+CUST0985,32,Male,Jeans,Outerwear,2432,Pune,S,Yellow,Winter,Very Good,4.4,Yes,Store Pickup,No,37,Bank Transfer,Weekly
+CUST0986,37,Male,Shirt,Footwear,14349,Ahmedabad,XL,Red,Fall,Poor,3.4,Yes,Standard,No,35,UPI,Annually
+CUST0987,69,Male,Jeans,Footwear,14304,Jaipur,L,White,Fall,Very Good,5,Yes,Store Pickup,Yes,15,UPI,Quarterly
+CUST0988,58,Female,Sandals,Outerwear,6908,Mumbai,8,Black,Summer,Poor,2.1,No,Next Day Air,No,38,Debit Card,Fortnightly
+CUST0989,48,Other,Hoodie,Accessories,10834,Bangalore,XL,Grey,Summer,Poor,4.3,No,Store Pickup,Yes,26,Credit Card,Annually
+CUST0990,23,Other,Hoodie,Footwear,12913,Mumbai,7,Green,Fall,Average,3.4,No,Express,No,19,Cash on Delivery,Annually
+CUST0991,49,Female,Hoodie,Footwear,7939,Kolkata,M,Purple,Summer,Very Good,3.6,Yes,Express,No,17,PayPal,Annually
+CUST0992,50,Male,Shirt,Outerwear,4172,Lucknow,XL,Yellow,Summer,Good,4.5,No,Express,No,38,Cash on Delivery,Fortnightly
+CUST0993,67,Other,Hoodie,Footwear,13393,Chennai,XL,Yellow,Summer,Good,4.4,Yes,Free Shipping,No,40,Debit Card,Fortnightly
+CUST0994,56,Other,Shirt,Footwear,14787,Ahmedabad,7,Red,Fall,Poor,4.2,No,Store Pickup,No,9,PayPal,Annually
+CUST0995,22,Female,Sweater,Accessories,13572,Jaipur,8,Black,Winter,Good,4.4,No,Next Day Air,No,35,Bank Transfer,Monthly
+CUST0996,50,Other,Jacket,Footwear,4603,Mumbai,8,Purple,Winter,Poor,3.3,No,Free Shipping,Yes,11,Credit Card,Monthly
+CUST0997,66,Male,Blouse,Clothing,4794,Delhi,10,Brown,Summer,Good,4.4,No,Standard,Yes,42,Bank Transfer,Weekly
+CUST0998,18,Male,Shirt,Outerwear,4906,Pune,XL,Red,Spring,Very Good,3.8,No,Store Pickup,No,15,Debit Card,Weekly
+CUST0999,53,Other,Shirt,Footwear,3065,Pune,XL,Brown,Winter,Good,2.3,No,Next Day Air,Yes,6,Debit Card,Quarterly
+CUST1000,32,Male,T-shirt,Footwear,14862,Bangalore,XL,Green,Winter,Excellent,2.7,No,Next Day Air,No,28,Debit Card,Fortnightly
