@@ -64,11 +64,11 @@ Created an interactive Power BI dashboard to visualize:
 
 ## 📁 Project Files
 
-- `analysis.sql` – SQL queries used for analysis
-- `DATASET` – Dataset containing 1,000 customer records
-- `Power BI file` – Interactive dashboard
-- `Dashboard PDF` – Dashboard preview
-- `Python/Pandas file` – Data cleaning and exploratory analysis
+- `customer behaaviour` – SQL queries used for analysis
+- `customer behaviour` – Dataset containing 1,000 customer records
+- `customer behaviour analysis.pbix` – Interactive dashboard
+- `customer behaviour analysis.pdf` – Dashboard preview
+- `project 2.csv.ipynb` – Data cleaning and exploratory analysis
 
 ## 💡 Project Outcome
 
